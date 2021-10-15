@@ -40,9 +40,9 @@ class SDE_Linear_MV_appr ():
         
         for i in range(1,self.n_discr):
             if (i == n):
-                    ksi[i] = ksi[i - 1] + (self.alpha * self.x[i - 1] + self.beta) * self.dt + self.sigma * self.dW_t[i - 1] 
+                    ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1] + self.beta) * self.dt 
             elif (i != n):
-                    ksi[i] = ksi[i - 1] + (self.alpha * self.x[i - 1]) * self.dt + self.sigma * self.dW_t[i - 1] 
+                    ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1]) * self.dt
         return ksi
     
     #### Plots the path

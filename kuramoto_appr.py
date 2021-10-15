@@ -42,20 +42,20 @@ class SDE_Kuramoto_MV_appr ():
                 if (i == n):
                     ksi[i] = ksi[i - 1] + (np.sin(self.x[i - 1]) + 
                                                  self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt + self.sigma * self.dW_t[i - 1] 
+                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt
                 elif (i != n):
                     ksi[i] = ksi[i - 1] + (self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt + self.sigma * self.dW_t[i - 1]
+                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt
             ### CHECK the signs 
             
             elif k == 1:
                 if (i == n):
                     ksi[i] = ksi[i - 1] + (-np.cos(self.x[i - 1]) + 
                                                      self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                     self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt + self.sigma * self.dW_t[i - 1]   
+                                                     self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt   
                 elif (i != n):
                     ksi[i] = ksi[i - 1] + (self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt + self.sigma * self.dW_t[i - 1]
+                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt
         return ksi
     
     #### Plots the path

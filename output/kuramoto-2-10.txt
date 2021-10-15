@@ -1,0 +1,3054 @@
+Solved for 0.0004442 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.66983361  0.27756914]
+ [-0.43558502 -0.23404434]]. 
+
+
+Solved for 0.0007489 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.7742879   0.47384942]
+ [-0.43476373 -0.21786897]]. 
+
+
+Solved for 0.002184 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.80888501  0.60513073]
+ [-0.48652745 -0.35028684]]. 
+
+
+Solved for 0.004842 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.82729925  0.77615122]
+ [-0.52233977 -0.39479606]]. 
+
+
+Solved for 0.01052 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.84077566  0.80566937]
+ [-0.52731671 -0.44877869]]. 
+
+
+Solved for 0.000473 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.76140818  0.36061947]
+ [-0.34401045 -0.14832152]]. 
+
+
+Solved for 0.0006843 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.74043109  0.41077185]
+ [-0.44394601 -0.24923381]]. 
+
+
+Solved for 0.001935 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.85837232  0.68734892]
+ [-0.45067606 -0.30470262]]. 
+
+
+Solved for 0.02183 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.84108187  0.8282215 ]
+ [-0.53381692 -0.43243218]]. 
+
+
+Solved for 0.0208 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.83909571  0.82903717]
+ [-0.53580308 -0.40151873]]. 
+
+
+Solved for 0.00034 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.64587851  0.23633025]
+ [-0.39045146 -0.23867105]]. 
+
+
+Solved for 0.001059 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.77004035  0.51490729]
+ [-0.48611718 -0.28542943]]. 
+
+
+Solved for 0.002485 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.83162534  0.7334016 ]
+ [-0.49257407 -0.27211785]]. 
+
+
+Solved for 0.01018 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.83679452  0.7679822 ]
+ [-0.53129785 -0.49400602]]. 
+
+
+Solved for 0.051 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.84573839  0.84922218]
+ [-0.53327687 -0.42060444]]. 
+
+
+Solved for 0.0005391 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.70016221  0.33802488]
+ [-0.45131553 -0.26142969]]. 
+
+
+Solved for 0.001033 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.76627835  0.46993006]
+ [-0.48987918 -0.30080528]]. 
+
+
+Solved for 0.002264 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.83672595  0.69729358]
+ [-0.48497024 -0.36322649]]. 
+
+
+Solved for 0.01064 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.83701662  0.81266051]
+ [-0.53159692 -0.40404767]]. 
+
+
+Solved for 0.107 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.84076385  0.84190957]
+ [-0.53962905 -0.43496199]]. 
+
+
+Solved for 0.0005503 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.73884374  0.33600558]
+ [-0.412634   -0.24266466]]. 
+
+
+Solved for 0.001171 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.76106239  0.47964058]
+ [-0.50556313 -0.36032211]]. 
+
+
+Solved for 0.002733 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.82204516  0.67766865]
+ [-0.50215425 -0.39267395]]. 
+
+
+Solved for 0.03037 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.84923989  0.84632706]
+ [-0.52758081 -0.39970539]]. 
+
+
+Solved for 0.5221 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.83990609  0.84805165]
+ [-0.5415909  -0.43183372]]. 
+
+
+Solved for 0.0004339 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.6819032   0.31502674]
+ [-0.42351544 -0.20570703]]. 
+
+
+Solved for 0.0009351 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.79642122  0.49483029]
+ [-0.44717475 -0.28133232]]. 
+
+
+Solved for 0.005026 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.83548173  0.77024834]
+ [-0.5180921  -0.40597846]]. 
+
+
+Solved for 0.00205 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.81430859  0.67296588]
+ [-0.50166598 -0.35334061]]. 
+
+
+Solved for 1.034 seconds.
+For n_discr = 2, eta = 0.1, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.8408727   0.84828475]
+ [-0.54076243 -0.42857051]]. 
+
+
+
+Solved for 0.000129 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42124345  0.04277886]
+ [-0.26964319 -0.12969022]]. 
+
+
+Solved for 0.0006411 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.73533977  0.25055167]
+ [-0.44903733 -0.1662058 ]]. 
+
+
+Solved for 0.00481 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.84143998  0.70523712]
+ [-0.51154637 -0.30575052]]. 
+
+
+Solved for 0.006991 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.83275332  0.7700171 ]
+ [-0.52928035 -0.323788  ]]. 
+
+
+Solved for 0.01193 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.85052267  0.78147688]
+ [-0.5175697  -0.39162585]]. 
+
+
+Solved for 0.0001209 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42309771  0.04817192]
+ [-0.26778894 -0.1264094 ]]. 
+
+
+Solved for 0.0009577 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.76887123  0.28778661]
+ [-0.47472473 -0.31940441]]. 
+
+
+Solved for 0.003073 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.83297721  0.60268841]
+ [-0.50422275 -0.3459746 ]]. 
+
+
+Solved for 0.009224 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.81555047  0.75118263]
+ [-0.55120354 -0.38927604]]. 
+
+
+Solved for 0.02045 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.8363316   0.80900546]
+ [-0.5385672  -0.42072841]]. 
+
+
+Solved for 0.000118 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42293182  0.05305943]
+ [-0.26795483 -0.11529511]]. 
+
+
+Solved for 0.0005398 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.71558166  0.22678057]
+ [-0.43589609 -0.15495537]]. 
+
+
+Solved for 0.00413 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.83997375  0.63999471]
+ [-0.50445432 -0.34495703]]. 
+
+
+Solved for 0.005968 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.83325469  0.70788845]
+ [-0.52142501 -0.34736477]]. 
+
+
+Solved for 0.05483 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.84347836  0.8315293 ]
+ [-0.5355369  -0.42658029]]. 
+
+
+Solved for 0.0001919 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42589371  0.04748302]
+ [-0.26499294 -0.123726  ]]. 
+
+
+Solved for 0.0006609 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.74839837  0.23186954]
+ [-0.43597874 -0.23644034]]. 
+
+
+Solved for 0.003585 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.86747223  0.6647137 ]
+ [-0.47482183 -0.28312093]]. 
+
+
+Solved for 0.004509 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.84881768  0.66280701]
+ [-0.50155168 -0.39786231]]. 
+
+
+Solved for 0.1039 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.84141416  0.83743449]
+ [-0.53897874 -0.43361382]]. 
+
+
+Solved for 0.0001209 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.41948854  0.03630691]
+ [-0.27139811 -0.13612705]]. 
+
+
+Solved for 0.0008497 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.75787976  0.30040519]
+ [-0.47036316 -0.23067302]]. 
+
+
+Solved for 0.002408 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.83692105  0.55628855]
+ [-0.48727836 -0.34478699]]. 
+
+
+Solved for 0.004072 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.84244427  0.68791083]
+ [-0.50562724 -0.30042339]]. 
+
+
+Solved for 0.5256 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.84195112  0.8465566 ]
+ [-0.53954587 -0.43058067]]. 
+
+
+Solved for 0.0001192 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42814214  0.04933582]
+ [-0.26274451 -0.12149318]]. 
+
+
+Solved for 0.000634 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.75032462  0.2587009 ]
+ [-0.43405249 -0.21330685]]. 
+
+
+Solved for 0.002598 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.83006294  0.56163691]
+ [-0.49856523 -0.35262318]]. 
+
+
+Solved for 0.0061 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.83775968  0.69344201]
+ [-0.52136159 -0.39012604]]. 
+
+
+Solved for 1.048 seconds.
+For n_discr = 2, eta = 0.05, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.84084627  0.84572122]
+ [-0.54078886 -0.43398652]]. 
+
+
+
+Solved for 0.0001349 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42186828  0.0197733 ]
+ [-0.26901836 -0.10154026]]. 
+
+
+Solved for 0.0001211 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.42109921  0.01850412]
+ [-0.26978744 -0.10538034]]. 
+
+
+Solved for 0.001462 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.80144404  0.13614484]
+ [-0.48821104 -0.21953037]]. 
+
+
+Solved for 0.007107 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.84957465  0.40537948]
+ [-0.51217294 -0.29324577]]. 
+
+
+Solved for 0.01103 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.85779284  0.5067773 ]
+ [-0.51029953 -0.32180925]]. 
+
+
+Solved for 0.0001428 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42187178  0.01954669]
+ [-0.26901486 -0.10326754]]. 
+
+
+Solved for 0.000138 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42164309  0.01955335]
+ [-0.26924355 -0.10200132]]. 
+
+
+Solved for 0.002603 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.80587977  0.15777232]
+ [-0.50316861 -0.23304622]]. 
+
+
+Solved for 0.006726 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.85381584  0.3838311 ]
+ [-0.5049279  -0.27217162]]. 
+
+
+Solved for 0.02217 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.85631854  0.66156795]
+ [-0.51858025 -0.35094419]]. 
+
+
+Solved for 0.0001221 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42216161  0.01909912]
+ [-0.26872504 -0.10648647]]. 
+
+
+Solved for 0.000119 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42033111  0.01833152]
+ [-0.27055553 -0.10478036]]. 
+
+
+Solved for 0.002993 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.82187988  0.22079982]
+ [-0.51224605 -0.23539919]]. 
+
+
+Solved for 0.006603 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.85568616  0.41288244]
+ [-0.50449692 -0.25071307]]. 
+
+
+Solved for 0.02552 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.84912885  0.69805669]
+ [-0.52711735 -0.36269755]]. 
+
+
+Solved for 0.0001132 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42130305  0.01565259]
+ [-0.2695836  -0.10993782]]. 
+
+
+Solved for 0.0001121 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42012647  0.01828086]
+ [-0.27076017 -0.10411339]]. 
+
+
+Solved for 0.001751 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.80251796  0.15433397]
+ [-0.50249015 -0.22215913]]. 
+
+
+Solved for 0.00711 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.85507386  0.42761695]
+ [-0.50723784 -0.26995797]]. 
+
+
+Solved for 0.02143 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.85678618  0.66647344]
+ [-0.51846931 -0.36305112]]. 
+
+
+Solved for 0.0001168 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.42405489  0.02011412]
+ [-0.26683176 -0.10434373]]. 
+
+
+Solved for 0.0001149 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42135924  0.01767457]
+ [-0.26952741 -0.10796059]]. 
+
+
+Solved for 0.002889 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.843278    0.23630479]
+ [-0.49084793 -0.2351607 ]]. 
+
+
+Solved for 0.006228 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.84480637  0.39136776]
+ [-0.51468026 -0.25983719]]. 
+
+
+Solved for 0.02192 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.85872731  0.69014631]
+ [-0.51670757 -0.3376445 ]]. 
+
+
+Solved for 0.0001161 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42095678  0.0187267 ]
+ [-0.26992987 -0.10431301]]. 
+
+
+Solved for 0.0001123 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42193142  0.01824434]
+ [-0.26895523 -0.10644894]]. 
+
+
+Solved for 0.002333 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.813573    0.18782826]
+ [-0.51062641 -0.24194082]]. 
+
+
+Solved for 0.006594 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.85550071  0.40624741]
+ [-0.50533662 -0.27752011]]. 
+
+
+Solved for 0.02678 seconds.
+For n_discr = 2, eta = 0.01, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.84885632  0.70353805]
+ [-0.52774179 -0.36838547]]. 
+
+
+
+Solved for 0.0001452 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.4207725   0.01291483]
+ [-0.27011414 -0.10658714]]. 
+
+
+Solved for 0.0001469 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.42102614  0.0139595 ]
+ [-0.26986051 -0.10484229]]. 
+
+
+Solved for 0.0001442 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.4203103   0.01376798]
+ [-0.27057634 -0.10366182]]. 
+
+
+Solved for 0.00621 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.83586718  0.21472799]
+ [-0.52031772 -0.24333268]]. 
+
+
+Solved for 0.01114 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.84457093  0.3249421 ]
+ [-0.52352143 -0.28560261]]. 
+
+
+Solved for 0.000145 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42088911  0.01353033]
+ [-0.26999754 -0.10590354]]. 
+
+
+Solved for 0.000129 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42084164  0.01415555]
+ [-0.270045   -0.10236132]]. 
+
+
+Solved for 0.0003619 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.6347406   0.03044199]
+ [-0.40158937 -0.14920006]]. 
+
+
+Solved for 0.003371 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.82335853  0.13951513]
+ [-0.51654285 -0.23190774]]. 
+
+
+Solved for 0.02089 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.86696358  0.52886516]
+ [-0.50793522 -0.28323738]]. 
+
+
+Solved for 0.0001149 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42071212  0.01291855]
+ [-0.27017452 -0.10650331]]. 
+
+
+Solved for 0.0001163 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42095438  0.01434671]
+ [-0.26993226 -0.10436759]]. 
+
+
+Solved for 0.0001161 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.42062639  0.01376829]
+ [-0.27026025 -0.10167724]]. 
+
+
+Solved for 0.004392 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.83382418  0.18614086]
+ [-0.51654517 -0.22775158]]. 
+
+
+Solved for 0.02813 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.85463947  0.57356233]
+ [-0.52216342 -0.34752878]]. 
+
+
+Solved for 0.0001261 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42076185  0.01349486]
+ [-0.2701248  -0.1056707 ]]. 
+
+
+Solved for 0.000118 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42041668  0.01385016]
+ [-0.27046996 -0.10396239]]. 
+
+
+Solved for 0.0001161 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.42102609  0.01321369]
+ [-0.26986055 -0.10603438]]. 
+
+
+Solved for 0.003178 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.82439889  0.14353292]
+ [-0.51419399 -0.22187724]]. 
+
+
+Solved for 0.0272 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.85633745  0.57584036]
+ [-0.52029914 -0.33596418]]. 
+
+
+Solved for 0.000114 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.4206986   0.01371882]
+ [-0.27018805 -0.10522798]]. 
+
+
+Solved for 0.000114 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42141107  0.01460576]
+ [-0.26947557 -0.10346658]]. 
+
+
+Solved for 0.0002208 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.56260893  0.02213814]
+ [-0.35857326 -0.13581583]]. 
+
+
+Solved for 0.005075 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.84272811  0.20568442]
+ [-0.51195159 -0.23623656]]. 
+
+
+Solved for 0.02484 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.86306122  0.57690037]
+ [-0.51311785 -0.29413724]]. 
+
+
+Solved for 0.0001152 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42118457  0.01409091]
+ [-0.26970207 -0.10530516]]. 
+
+
+Solved for 0.0001161 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42077045  0.01321112]
+ [-0.2701162  -0.10622608]]. 
+
+
+Solved for 0.0001132 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.42108667  0.01425487]
+ [-0.26979998 -0.10406236]]. 
+
+
+Solved for 0.003152 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.82333803  0.13841168]
+ [-0.51525485 -0.23059987]]. 
+
+
+Solved for 0.02546 seconds.
+For n_discr = 2, eta = 0.005, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.85966769  0.54520887]
+ [-0.51629983 -0.32810875]]. 
+
+
+
+Solved for 0.0001349 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42071544  0.01033045]
+ [-0.27017121 -0.10416032]]. 
+
+
+Solved for 0.0001228 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.42072424  0.01008597]
+ [-0.27016241 -0.10454783]]. 
+
+
+Solved for 0.000118 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.42087458  0.01038098]
+ [-0.27001206 -0.10415511]]. 
+
+
+Solved for 0.0001199 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.42074576  0.01023882]
+ [-0.27014089 -0.10438787]]. 
+
+
+Solved for 0.01278 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.840066    0.10037668]
+ [-0.52802636 -0.22339734]]. 
+
+
+Solved for 0.0001249 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42084812  0.01023799]
+ [-0.27003853 -0.10435091]]. 
+
+
+Solved for 0.0001209 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42099042  0.01032764]
+ [-0.26989623 -0.10424287]]. 
+
+
+Solved for 0.0001421 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.42077576  0.01018109]
+ [-0.27011089 -0.10448083]]. 
+
+
+Solved for 0.0001471 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.42059524  0.0102429 ]
+ [-0.2702914  -0.10378852]]. 
+
+
+Solved for 0.01543 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.84274302  0.12822945]
+ [-0.52908945 -0.22873169]]. 
+
+
+Solved for 0.000123 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42101594  0.01063702]
+ [-0.2698707  -0.10358168]]. 
+
+
+Solved for 0.000118 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42081878  0.01037328]
+ [-0.27006787 -0.10412978]]. 
+
+
+Solved for 0.0001171 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.42083934  0.01043544]
+ [-0.2700473  -0.103983  ]]. 
+
+
+Solved for 0.0001161 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.42085573  0.0103653 ]
+ [-0.27003092 -0.10417302]]. 
+
+
+Solved for 0.01702 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.84704753  0.14882094]
+ [-0.5261963  -0.22732011]]. 
+
+
+Solved for 0.0001209 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42097951  0.01055601]
+ [-0.26990713 -0.10408983]]. 
+
+
+Solved for 0.000123 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42075456  0.01035179]
+ [-0.27013208 -0.10420593]]. 
+
+
+Solved for 0.0001299 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.42069941  0.01030705]
+ [-0.27018724 -0.10356869]]. 
+
+
+Solved for 0.0001271 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.42077454  0.01037927]
+ [-0.27011211 -0.10418102]]. 
+
+
+Solved for 0.01427 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.84429489  0.13213483]
+ [-0.5277476  -0.22773732]]. 
+
+
+Solved for 0.000114 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.4207753   0.0101188 ]
+ [-0.27011135 -0.10454208]]. 
+
+
+Solved for 0.000114 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.4208664   0.01049775]
+ [-0.27002024 -0.10371444]]. 
+
+
+Solved for 0.0001128 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.42077499  0.01013074]
+ [-0.27011166 -0.10453105]]. 
+
+
+Solved for 0.000129 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.42105943  0.01019919]
+ [-0.26982722 -0.10441728]]. 
+
+
+Solved for 0.01031 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.83803831  0.09974897]
+ [-0.53018818 -0.22275166]]. 
+
+
+Solved for 0.0001199 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42067606  0.01033121]
+ [-0.27021058 -0.10399665]]. 
+
+
+Solved for 0.0001159 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42073338  0.01007303]
+ [-0.27015326 -0.10457411]]. 
+
+
+Solved for 0.0001159 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.42073759  0.00981974]
+ [-0.27014905 -0.10469963]]. 
+
+
+Solved for 0.0001149 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.42083113  0.01032122]
+ [-0.27005551 -0.10433902]]. 
+
+
+Solved for 0.00872 seconds.
+For n_discr = 2, eta = 0.001, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.83806222  0.09049007]
+ [-0.52782862 -0.21737184]]. 
+
+
+
+Solved for 0.007128 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.81845347  0.53192268  0.52405824  0.50642496  0.33812469]
+ [-0.36592364 -0.18884352 -0.21538802 -0.07204644 -0.10832174]]. 
+
+
+Solved for 0.01299 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.76893847  0.53295624  0.51383693  0.51433569  0.41689813]
+ [-0.48721906 -0.35476141 -0.36482399 -0.25733081 -0.23598291]]. 
+
+
+Solved for 0.1237 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.86474858  0.83467726  0.83842732  0.8392011   0.82323167]
+ [-0.50334379 -0.46543952 -0.41948582 -0.36036324 -0.3242067 ]]. 
+
+
+Solved for 0.1194 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.84271813  0.83040548  0.82886542  0.81495218  0.80461391]
+ [-0.52537424 -0.44945413 -0.41357353 -0.38741071 -0.36510308]]. 
+
+
+Solved for 0.124 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.82055527  0.79567754  0.8089305   0.80056747  0.77710791]
+ [-0.5475371  -0.49267832 -0.45838531 -0.42076908 -0.40731242]]. 
+
+
+Solved for 0.009409 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.85911949  0.58866842  0.56682898  0.52926859  0.39401017]
+ [-0.34993214 -0.19656785 -0.23193297 -0.13463081 -0.12791713]]. 
+
+
+Solved for 0.01814 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.89583282  0.69150492  0.69275875  0.66671798  0.56647619]
+ [-0.37965021 -0.28794608 -0.29214079 -0.19356837 -0.13896338]]. 
+
+
+Solved for 0.2453 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.84033655  0.81806741  0.80965824  0.80375594  0.79127563]
+ [-0.53456225 -0.50322081 -0.48856398 -0.44813268 -0.42122251]]. 
+
+
+Solved for 0.244 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.83699647  0.8143505   0.80859465  0.79564653  0.78465788]
+ [-0.53790233 -0.50560702 -0.48460819 -0.45567704 -0.41836883]]. 
+
+
+Solved for 0.2436 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.82616441  0.82673834  0.82729044  0.82841204  0.81760135]
+ [-0.54873438 -0.47631842 -0.43766612 -0.40266827 -0.35645279]]. 
+
+
+Solved for 0.009816 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 1.08310702  0.8519643   0.81896847  0.79766745  0.64307021]
+ [-0.14513591 -0.01983249 -0.04952128  0.09645321  0.0581108 ]]. 
+
+
+Solved for 0.01343 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.87401436  0.67422535  0.67660039  0.64814477  0.57038282]
+ [-0.39261116 -0.23147371 -0.23421654 -0.08306215 -0.08382017]]. 
+
+
+Solved for 0.6076 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.85532779  0.84999604  0.84639706  0.84568753  0.84582342]
+ [-0.52368747 -0.48853895 -0.44933145 -0.4056173  -0.36622615]]. 
+
+
+Solved for 0.6123 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.83124501  0.82468952  0.82947828  0.83061444  0.82313279]
+ [-0.54777025 -0.50635242 -0.4566257  -0.40807056 -0.37301607]]. 
+
+
+Solved for 0.6255 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.84157907  0.8333939   0.83437407  0.84083794  0.83583381]
+ [-0.53743619 -0.50530292 -0.46359919 -0.4104131  -0.36923586]]. 
+
+
+Solved for 0.004793 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.96674717  0.6447203   0.6299032   0.63425048  0.43906208]
+ [-0.13867146 -0.00378071 -0.03829704  0.14804259  0.1067041 ]]. 
+
+
+Solved for 0.0133 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.86281771  0.65095783  0.64450682  0.6061259   0.4565114 ]
+ [-0.40380781 -0.29311664 -0.31980835 -0.24851593 -0.27686026]]. 
+
+
+Solved for 0.4216 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.83787871  0.84093631  0.83191373  0.82804657  0.81253079]
+ [-0.53974511 -0.48010717 -0.44599354 -0.41079233 -0.38022597]]. 
+
+
+Solved for 1.235 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.84117828  0.84380195  0.84170869  0.84524826  0.840743  ]
+ [-0.53921462 -0.49179974 -0.45677317 -0.40668495 -0.36427177]]. 
+
+
+Solved for 1.235 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.84275124  0.84516375  0.84156726  0.83392166  0.82167097]
+ [-0.53764166 -0.49000754 -0.45396887 -0.41926796 -0.39551707]]. 
+
+
+Solved for 0.009099 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.72224343  0.45733642  0.4343584   0.40562883  0.26784682]
+ [-0.4868082  -0.27900496 -0.33963164 -0.24157794 -0.24695673]]. 
+
+
+Solved for 0.0194 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.78492538  0.60917032  0.61003218  0.60125335  0.50816118]
+ [-0.51556713 -0.42382193 -0.39417431 -0.24175068 -0.23101622]]. 
+
+
+Solved for 1.415 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.83744145  0.83365663  0.83239471  0.83433423  0.83188126]
+ [-0.54311442 -0.50323566 -0.46679045 -0.42663172 -0.38418779]]. 
+
+
+Solved for 6.192 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.83907104  0.8399541   0.84047333  0.83804297  0.83774941]
+ [-0.54242595 -0.50135513 -0.46139192 -0.42449476 -0.38429531]]. 
+
+
+Solved for 6.217 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.83937892  0.84295327  0.84487003  0.84331655  0.84173215]
+ [-0.54211807 -0.49746879 -0.45311708 -0.41206037 -0.37444747]]. 
+
+
+Solved for 0.008587 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.85085409  0.59305699  0.59083481  0.57835923  0.37618707]
+ [-0.35819754 -0.19590438 -0.19758401 -0.06336102 -0.12053605]]. 
+
+
+Solved for 0.02008 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.90002221  0.70803211  0.65272843  0.59429163  0.49748287]
+ [-0.4004703  -0.36458993 -0.40642621 -0.33927906 -0.29370424]]. 
+
+
+Solved for 2.938 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.83651505  0.83910249  0.83938407  0.83464007  0.82804102]
+ [-0.54464521 -0.49895221 -0.46190368 -0.42991665 -0.39547211]]. 
+
+
+Solved for 12.39 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.8369389   0.83915864  0.84040412  0.83776195  0.83567781]
+ [-0.54469623 -0.50155075 -0.46012377 -0.42177084 -0.3845921 ]]. 
+
+
+Solved for 12.32 seconds.
+For n_discr = 5, eta = 0.1, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.84072042  0.8438545   0.84542437  0.84587833  0.84329584]
+ [-0.54091471 -0.49735748 -0.45599097 -0.41453723 -0.37665296]]. 
+
+
+
+Solved for 0.001232 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42303784  0.0961853   0.08692287  0.08105829 -0.0803827 ]
+ [-0.2678488  -0.12191706 -0.15652756 -0.00516257 -0.02517161]]. 
+
+
+Solved for 0.01326 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.8343442   0.4733205   0.46902081  0.45685137  0.27166299]
+ [-0.43228132 -0.23933242 -0.25803251 -0.07867491 -0.09270786]]. 
+
+
+Solved for 0.1213 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.85581349  0.8081532   0.80885668  0.78764621  0.74250722]
+ [-0.51227888 -0.42335704 -0.38465476 -0.34043187 -0.31595711]]. 
+
+
+Solved for 0.1233 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.88885916  0.84113428  0.83953177  0.83947335  0.79997911]
+ [-0.47923321 -0.39783734 -0.36586695 -0.2979088  -0.2647495 ]]. 
+
+
+Solved for 0.1228 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.86340562  0.80834562  0.80301587  0.78745891  0.75079992]
+ [-0.50468675 -0.42333503 -0.39325274 -0.34935974 -0.31124502]]. 
+
+
+Solved for 0.002498 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.56381583  0.14740378  0.14181121  0.14140405 -0.05904038]
+ [-0.35736636 -0.17365759 -0.20900788 -0.00663842 -0.00773365]]. 
+
+
+Solved for 0.01236 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.83118529  0.45727399  0.43890944  0.43727293  0.22896149]
+ [-0.42497224 -0.22309143 -0.26494852 -0.05726174 -0.0953525 ]]. 
+
+
+Solved for 0.08407 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.84700498  0.76431759  0.75942232  0.75667388  0.69290395]
+ [-0.51474261 -0.4253737  -0.40849596 -0.3442984  -0.3354814 ]]. 
+
+
+Solved for 0.2436 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.8454865   0.82456028  0.82173724  0.81376227  0.7947184 ]
+ [-0.5294123  -0.46139542 -0.42375419 -0.37884224 -0.34862428]]. 
+
+
+Solved for 0.244 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.87202121  0.85007315  0.84836542  0.85081327  0.82585356]
+ [-0.50287759 -0.45272819 -0.41535541 -0.36721776 -0.35000284]]. 
+
+
+Solved for 0.007319 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.7953014   0.35912447  0.35063941  0.35442965  0.11621238]
+ [-0.3890757  -0.174665   -0.22251739  0.0071245  -0.04514431]]. 
+
+
+Solved for 0.008425 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.76512569  0.335013    0.31690339  0.28468159  0.08167574]
+ [-0.44392594 -0.25968379 -0.30418243 -0.1118317  -0.12806118]]. 
+
+
+Solved for 0.1139 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.90727711  0.84058224  0.82195531  0.80637172  0.75642473]
+ [-0.4599512  -0.41006505 -0.39475989 -0.35952984 -0.31012536]]. 
+
+
+Solved for 0.6127 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.83817209  0.82607941  0.82755162  0.82527554  0.81954228]
+ [-0.54084317 -0.49214069 -0.452049   -0.40962987 -0.36051508]]. 
+
+
+Solved for 0.6207 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.8405339   0.82364971  0.82453775  0.8265572   0.81216492]
+ [-0.53848136 -0.502933   -0.46553769 -0.40911738 -0.38003135]]. 
+
+
+Solved for 0.004839 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.73588025  0.2927186   0.28207379  0.28175049  0.05609732]
+ [-0.36953838 -0.13041937 -0.15793265  0.07302373  0.05710852]]. 
+
+
+Solved for 0.01078 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.83439251  0.43275336  0.42007926  0.41474961  0.22897531]
+ [-0.40920345 -0.22842415 -0.26614122 -0.06315485 -0.07046787]]. 
+
+
+Solved for 0.09488 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.85716637  0.76112518  0.74769825  0.72205673  0.69441157]
+ [-0.50666181 -0.45776059 -0.43585035 -0.40725529 -0.36127513]]. 
+
+
+Solved for 1.222 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.84216424  0.84170092  0.84239174  0.84517194  0.83935897]
+ [-0.53822865 -0.48787553 -0.44547393 -0.39643108 -0.36081824]]. 
+
+
+Solved for 1.224 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.84728986  0.83947217  0.83792066  0.83409137  0.83331932]
+ [-0.53310304 -0.49772301 -0.45831402 -0.42221382 -0.37894027]]. 
+
+
+Solved for 0.00509 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.68720386  0.24006426  0.23531598  0.2409991   0.02146569]
+ [-0.41821477 -0.19889831 -0.2351821  -0.00620217 -0.02499983]]. 
+
+
+Solved for 0.009091 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.80361907  0.38025327  0.36496686  0.34610445  0.14915598]
+ [-0.40543256 -0.21987813 -0.26441435 -0.0814378  -0.07775018]]. 
+
+
+Solved for 0.1507 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.86812984  0.8283039   0.8352042   0.83510335  0.80411863]
+ [-0.50240952 -0.43681951 -0.38538289 -0.30277923 -0.2743027 ]]. 
+
+
+Solved for 6.225 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.83539135  0.83453761  0.83446472  0.83560393  0.83205271]
+ [-0.54610564 -0.50438612 -0.4660066  -0.42360612 -0.38898039]]. 
+
+
+Solved for 6.161 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.83743567  0.8404074   0.84339014  0.84294818  0.84138402]
+ [-0.54406133 -0.49692992 -0.45224198 -0.41103154 -0.37565133]]. 
+
+
+Solved for 0.004859 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.78441459  0.33769003  0.33170648  0.33066478  0.12267349]
+ [-0.32100404 -0.10697452 -0.1181166   0.08440263  0.09709655]]. 
+
+
+Solved for 0.01331 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.8128115   0.43800186  0.42080354  0.4074843   0.25017563]
+ [-0.45381402 -0.28569801 -0.31902753 -0.13532645 -0.10470261]]. 
+
+
+Solved for 0.07469 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.87596099  0.77574768  0.78552204  0.77552896  0.69531526]
+ [-0.48278274 -0.41083168 -0.37528863 -0.31429026 -0.31352964]]. 
+
+
+Solved for 2.304 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.84604739  0.84470653  0.84780001  0.84775998  0.84117565]
+ [-0.53498856 -0.49499632 -0.45132087 -0.41155354 -0.37911967]]. 
+
+
+Solved for 12.31 seconds.
+For n_discr = 5, eta = 0.05, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.83971079  0.8421302   0.84314377  0.84323355  0.8396256 ]
+ [-0.54192433 -0.49776693 -0.45664312 -0.41717021 -0.37954514]]. 
+
+
+
+Solved for 0.00127 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42207096  0.06616983  0.06217266  0.05939716 -0.11599286]
+ [-0.26881569 -0.10642424 -0.13656552  0.03120564  0.01056038]]. 
+
+
+Solved for 0.001242 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.4254887   0.06871113  0.06326703  0.06043595 -0.11476408]
+ [-0.26539795 -0.10879744 -0.13927433  0.02979726  0.00850349]]. 
+
+
+Solved for 0.05402 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.95698947  0.4900232   0.47150518  0.46874858  0.22838393]
+ [-0.39407775 -0.18807653 -0.23030992  0.00313687 -0.02767953]]. 
+
+
+Solved for 0.09346 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.94475046  0.58476716  0.56495532  0.5630609   0.36279028]
+ [-0.41835022 -0.23274827 -0.27391587 -0.07744673 -0.0947837 ]]. 
+
+
+Solved for 0.1228 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.90859502  0.60514367  0.6017221   0.60130978  0.43491369]
+ [-0.45949735 -0.30744817 -0.31658856 -0.1506678  -0.15761589]]. 
+
+
+Solved for 0.001227 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.41918088  0.06323744  0.05916679  0.0565256  -0.11911935]
+ [-0.27170577 -0.11231191 -0.14040424  0.02860588  0.01028108]]. 
+
+
+Solved for 0.001244 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42168394  0.06332438  0.05971403  0.05862179 -0.11783319]
+ [-0.26920271 -0.11545715 -0.14349813  0.02820488  0.00509685]]. 
+
+
+Solved for 0.05869 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.92262575  0.47148337  0.45877576  0.45699811  0.23312643]
+ [-0.42974811 -0.21006947 -0.24738989 -0.00994989 -0.01389742]]. 
+
+
+Solved for 0.1054 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.9542236   0.61518743  0.61674031  0.60497692  0.42938463]
+ [-0.41090182 -0.24115641 -0.24351377 -0.05178006 -0.06407087]]. 
+
+
+Solved for 0.2505 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.91830852  0.75111594  0.74848358  0.73570319  0.63622334]
+ [-0.45659027 -0.36171047 -0.34777534 -0.25527024 -0.24255309]]. 
+
+
+Solved for 0.001221 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42095815  0.06438075  0.06063204  0.05788744 -0.11870316]
+ [-0.26992849 -0.11311296 -0.14090675  0.02805146  0.00435337]]. 
+
+
+Solved for 0.001219 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42189168  0.06645336  0.06121287  0.05913874 -0.11612455]
+ [-0.26899497 -0.10948709 -0.14136456  0.02932581  0.00906997]]. 
+
+
+Solved for 0.05117 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.89661955  0.41795704  0.40923358  0.40105611  0.16137556]
+ [-0.45301948 -0.23618309 -0.26871949 -0.04022523 -0.07091889]]. 
+
+
+Solved for 0.09994 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.95601358  0.61190724  0.60674366  0.59438185  0.42711164]
+ [-0.40890881 -0.24250888 -0.25152813 -0.07819252 -0.06628957]]. 
+
+
+Solved for 0.6243 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.86405579  0.79400181  0.79581978  0.79513061  0.76186715]
+ [-0.51495947 -0.4549424  -0.41359079 -0.34234216 -0.30699741]]. 
+
+
+Solved for 0.001249 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42342418  0.06564933  0.06002883  0.05691418 -0.1182032 ]
+ [-0.26746246 -0.11244601 -0.14250644  0.02632066  0.00482695]]. 
+
+
+Solved for 0.001251 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42191668  0.06555041  0.06159377  0.05765768 -0.11857667]
+ [-0.26896997 -0.11231077 -0.14051842  0.02657722  0.00426769]]. 
+
+
+Solved for 0.04426 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.91134029  0.41747498  0.4124727   0.40545907  0.15750888]
+ [-0.43308777 -0.20169874 -0.22333262  0.01355836 -0.0105145 ]]. 
+
+
+Solved for 0.09243 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.93409836  0.57223726  0.5693255   0.55837171  0.36941524]
+ [-0.42900232 -0.23751687 -0.24918046 -0.06454461 -0.08420941]]. 
+
+
+Solved for 1.242 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.87938419  0.85241654  0.85238348  0.85492839  0.8336319 ]
+ [-0.50100871 -0.45039517 -0.4139806  -0.35024842 -0.31438986]]. 
+
+
+Solved for 0.001239 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.42466852  0.06823465  0.0641679   0.06101412 -0.1151194 ]
+ [-0.26621812 -0.10852586 -0.13723662  0.03071593  0.00790866]]. 
+
+
+Solved for 0.00124 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42175318  0.06475901  0.06070264  0.05658396 -0.11642569]
+ [-0.26913347 -0.11291512 -0.14134157  0.02588048  0.00934691]]. 
+
+
+Solved for 0.03404 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.86102798  0.32388801  0.30973344  0.29818373  0.03148607]
+ [-0.47139626 -0.23927298 -0.29014781 -0.04445031 -0.07177626]]. 
+
+
+Solved for 0.1157 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.92102854  0.6214217   0.61900559  0.6224151   0.45422322]
+ [-0.44649966 -0.27050144 -0.26955136 -0.09952325 -0.10290386]]. 
+
+
+Solved for 6.189 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.84381644  0.83940022  0.84007912  0.83777613  0.83152426]
+ [-0.53768055 -0.49452648 -0.4553827  -0.41318295 -0.37847774]]. 
+
+
+Solved for 0.001384 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42909945  0.07308755  0.06821698  0.06335784 -0.11286299]
+ [-0.2617872  -0.10594884 -0.13542451  0.03177132  0.00994545]]. 
+
+
+Solved for 0.001302 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42223339  0.06565116  0.0597341   0.05449668 -0.1219119 ]
+ [-0.26865325 -0.11334764 -0.1439607   0.0237791   0.00188593]]. 
+
+
+Solved for 0.04931 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.94997097  0.47123392  0.45729983  0.45864101  0.21555986]
+ [-0.39810053 -0.18126047 -0.22068527  0.02459146  0.01071553]]. 
+
+
+Solved for 0.09411 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.9338626   0.5870069   0.58701376  0.58072801  0.39798227]
+ [-0.43019565 -0.23149104 -0.23524752 -0.0463524  -0.05140653]]. 
+
+
+Solved for 12.25 seconds.
+For n_discr = 5, eta = 0.01, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.84268471  0.84442782  0.84536751  0.84471222  0.84010619]
+ [-0.53895041 -0.49169915 -0.44913336 -0.40632125 -0.36860374]]. 
+
+
+
+Solved for 0.001221 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42331157  0.06303047  0.05920812  0.05614437 -0.12116228]
+ [-0.26757508 -0.11021658 -0.13816899  0.03221733  0.01060251]]. 
+
+
+Solved for 0.001223 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.42129648  0.06107008  0.0560077   0.05275848 -0.12660187]
+ [-0.26959017 -0.11231406 -0.14211     0.02843333  0.00555928]]. 
+
+
+Solved for 0.006029 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.70540683  0.11602308  0.1097473   0.10569727 -0.18505032]
+ [-0.44607091 -0.18855358 -0.23463847  0.04478938  0.00772782]]. 
+
+
+Solved for 0.1047 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.93050378  0.45700738  0.44739467  0.44258904  0.20337177]
+ [-0.43501335 -0.19909296 -0.2280484   0.01167514 -0.01787701]]. 
+
+
+Solved for 0.1223 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.91781829  0.46599164  0.45591274  0.44558356  0.22365183]
+ [-0.45027408 -0.24171042 -0.2649107  -0.03982731 -0.06279695]]. 
+
+
+Solved for 0.001219 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42103273  0.06083214  0.05679941  0.05385665 -0.12443402]
+ [-0.26985391 -0.11195585 -0.14041333  0.03004803  0.00673308]]. 
+
+
+Solved for 0.001221 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42084299  0.0606107   0.05550475  0.0521191  -0.12457476]
+ [-0.27004365 -0.11226468 -0.14237978  0.02797048  0.0066148 ]]. 
+
+
+Solved for 0.01437 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.79284786  0.16418366  0.15478015  0.15134278 -0.16085114]
+ [-0.48263518 -0.19975418 -0.25246986  0.046689    0.00507591]]. 
+
+
+Solved for 0.1079 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.92546717  0.4454502   0.43914835  0.43073824  0.1873126 ]
+ [-0.44060415 -0.22210964 -0.24590753 -0.00878757 -0.03707917]]. 
+
+
+Solved for 0.246 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.92809331  0.62035527  0.611495    0.60293125  0.4381746 ]
+ [-0.44680549 -0.30156597 -0.31152522 -0.14668314 -0.16089367]]. 
+
+
+Solved for 0.001247 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42329812  0.06321399  0.05890903  0.05589835 -0.1225723 ]
+ [-0.26758853 -0.10856373 -0.13781336  0.03234629  0.00875969]]. 
+
+
+Solved for 0.001238 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42060715  0.06060545  0.05615831  0.05356034 -0.12364926]
+ [-0.2702795  -0.1114547  -0.14085575  0.03068332  0.00960933]]. 
+
+
+Solved for 0.004948 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.67645583  0.10812413  0.10095601  0.09710372 -0.18305048]
+ [-0.4289628  -0.17996615 -0.2266039   0.04340086  0.00854537]]. 
+
+
+Solved for 0.08444 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 9.13546578e-01  4.07406519e-01  4.03561620e-01  3.98351593e-01
+   1.42716769e-01]
+ [-4.48487095e-01 -1.92578329e-01 -2.23580856e-01  2.31085165e-02
+  -8.44743074e-04]]. 
+
+
+Solved for 0.4516 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.90291776  0.72950316  0.72300166  0.71754938  0.61535104]
+ [-0.47513108 -0.35110315 -0.33940284 -0.23585215 -0.21965934]]. 
+
+
+Solved for 0.00122 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42093837  0.0606971   0.05685846  0.05320731 -0.12431622]
+ [-0.26994828 -0.11224005 -0.14025052  0.0290004   0.00688592]]. 
+
+
+Solved for 0.00122 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42344907  0.0632506   0.05895091  0.05602679 -0.12209858]
+ [-0.26743757 -0.11001238 -0.13899469  0.03180413  0.00907551]]. 
+
+
+Solved for 0.009651 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.75340021  0.13396967  0.12781451  0.12191983 -0.18429636]
+ [-0.47484272 -0.20399899 -0.25243035  0.0394923   0.00106848]]. 
+
+
+Solved for 0.06388 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.88387699  0.33358215  0.3257242   0.32202083  0.04947146]
+ [-0.47230791 -0.22218969 -0.26231309  0.00886982 -0.0226558 ]]. 
+
+
+Solved for 0.3866 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.90490978  0.7014875   0.68960536  0.68154282  0.57473022]
+ [-0.47253193 -0.34285384 -0.34553536 -0.22566717 -0.21378454]]. 
+
+
+Solved for 0.001365 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.420904    0.06082717  0.05602277  0.05393397 -0.12400165]
+ [-0.26998264 -0.11193585 -0.14175116  0.03053406  0.00738501]]. 
+
+
+Solved for 0.001228 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.4236953   0.06318927  0.05834885  0.05592321 -0.12103313]
+ [-0.26719134 -0.10925618 -0.13907838  0.03225302  0.01081587]]. 
+
+
+Solved for 0.01106 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.77327046  0.14867872  0.14042825  0.13531215 -0.16931895]
+ [-0.4703255  -0.19895743 -0.2435935   0.04979194  0.01249412]]. 
+
+
+Solved for 0.08314 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.92785585  0.41788648  0.40516772  0.39605914  0.14380388]
+ [-0.43417782 -0.19412165 -0.2333629   0.01074622 -0.00348724]]. 
+
+
+Solved for 0.3882 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.93624496  0.71797305  0.71150443  0.69737294  0.58266091]
+ [-0.4408759  -0.31375395 -0.31248429 -0.18995192 -0.17310574]]. 
+
+
+Solved for 0.001391 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42967091  0.06912681  0.0653192   0.06221606 -0.11503413]
+ [-0.26121574 -0.10277906 -0.13084184  0.03882932  0.01689629]]. 
+
+
+Solved for 0.001337 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42037611  0.05949897  0.05499355  0.05115279 -0.12604585]
+ [-0.27051053 -0.11382104 -0.1429502   0.027175    0.00533768]]. 
+
+
+Solved for 0.01866 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.79831711  0.16923123  0.1634038   0.15920106 -0.15314436]
+ [-0.49133796 -0.20839182 -0.25307234  0.04663756  0.00527553]]. 
+
+
+Solved for 0.1138 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.93278265  0.44532363  0.44169106  0.43179043  0.17244708]
+ [-0.43234277 -0.21576997 -0.24135704 -0.01204466 -0.04099686]]. 
+
+
+Solved for 0.4111 seconds.
+For n_discr = 5, eta = 0.005, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.92880709  0.71766999  0.70300125  0.70087849  0.58574928]
+ [-0.44856565 -0.33503504 -0.33651719 -0.20643908 -0.19658106]]. 
+
+
+
+Solved for 0.001636 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42096714  0.05775424  0.0534492   0.05034954 -0.12857276]
+ [-0.26991951 -0.11099243 -0.14016089  0.03173682  0.00943059]]. 
+
+
+Solved for 0.001469 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.42262074  0.05910496  0.0546587   0.05193333 -0.12684628]
+ [-0.26826591 -0.10979779 -0.13903662  0.03329489  0.01113203]]. 
+
+
+Solved for 0.001287 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.42112724  0.05788321  0.0535397   0.05057205 -0.12838479]
+ [-0.26975941 -0.11088099 -0.14013404  0.03195315  0.00961481]]. 
+
+
+Solved for 0.001239 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.42168806  0.05848433  0.05417711  0.05128089 -0.12749124]
+ [-0.26919859 -0.11025041 -0.13943445  0.03276395  0.01082342]]. 
+
+
+Solved for 0.1235 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.8660083   0.21238258  0.2044369   0.19519601 -0.12557491]
+ [-0.50208406 -0.21404857 -0.263438    0.04466931  0.00670561]]. 
+
+
+Solved for 0.001239 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42123667  0.05778495  0.05367063  0.05083907 -0.12807206]
+ [-0.26964998 -0.11089221 -0.13975324  0.0325774   0.0100419 ]]. 
+
+
+Solved for 0.001214 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42121135  0.05786212  0.05364894  0.05076958 -0.12800531]
+ [-0.2696753  -0.11075532 -0.13971814  0.03244445  0.01038139]]. 
+
+
+Solved for 0.001234 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.42081424  0.05749664  0.05313945  0.05041212 -0.12838737]
+ [-0.2700724  -0.11125527 -0.14049397  0.03206679  0.01009225]]. 
+
+
+Solved for 0.001221 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.42135953  0.05807015  0.05373341  0.05079264 -0.12812879]
+ [-0.26952712 -0.11077682 -0.13997013  0.03217068  0.00985304]]. 
+
+
+Solved for 0.2458 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.88754345  0.28910812  0.28187226  0.27475018 -0.02018435]
+ [-0.48735535 -0.22295452 -0.26617229  0.01706292 -0.01179224]]. 
+
+
+Solved for 0.001242 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42131241  0.05799796  0.05353383  0.05065532 -0.12833181]
+ [-0.26957424 -0.11087404 -0.1402054   0.03203636  0.00969228]]. 
+
+
+Solved for 0.001224 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42093311  0.05763874  0.05301433  0.05030073 -0.12839855]
+ [-0.26995353 -0.11104764 -0.14059028  0.03177117  0.00970482]]. 
+
+
+Solved for 0.00122 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.42185974  0.0585976   0.05429318  0.05141298 -0.12736553]
+ [-0.26902691 -0.10980747 -0.13902942  0.03308128  0.01099314]]. 
+
+
+Solved for 0.001215 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.42070637  0.05745371  0.05316689  0.05031518 -0.12850066]
+ [-0.27018027 -0.11102555 -0.13991734  0.03224156  0.01002254]]. 
+
+
+Solved for 0.3362 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.91654757  0.3608727   0.35278203  0.34818992  0.07035035]
+ [-0.46023737 -0.20693841 -0.24620834  0.02494465 -0.0034522 ]]. 
+
+
+Solved for 0.001241 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42075027  0.05736661  0.05304199  0.05030248 -0.12853961]
+ [-0.27013637 -0.11138264 -0.1405862   0.03185902  0.00956905]]. 
+
+
+Solved for 0.00123 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42156835  0.05803414  0.05396626  0.05109202 -0.12763966]
+ [-0.2693183  -0.11062683 -0.13945403  0.03271624  0.01083764]]. 
+
+
+Solved for 0.001271 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.42103315  0.05778656  0.05349002  0.05063362 -0.12818598]
+ [-0.26985349 -0.11063619 -0.13972601  0.03248503  0.01015302]]. 
+
+
+Solved for 0.001261 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.42106973  0.05786876  0.05357226  0.05068794 -0.12815743]
+ [-0.26981691 -0.11068184 -0.13983723  0.03227966  0.00998385]]. 
+
+
+Solved for 0.367 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.9016387   0.35057718  0.34274328  0.33949034  0.06699989]
+ [-0.47535337 -0.22336041 -0.26140359  0.00782556 -0.01541835]]. 
+
+
+Solved for 0.001271 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.42140946  0.05808463  0.05381619  0.05100109 -0.12781234]
+ [-0.26947719 -0.11049557 -0.13960756  0.03281259  0.01064462]]. 
+
+
+Solved for 0.001265 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42187693  0.05861787  0.05419839  0.05124903 -0.12759791]
+ [-0.26900972 -0.10987405 -0.13933521  0.03274915  0.01046555]]. 
+
+
+Solved for 0.001228 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.42064361  0.05730886  0.05309515  0.05026302 -0.12857343]
+ [-0.27024304 -0.11140772 -0.14038802  0.03199467  0.00968329]]. 
+
+
+Solved for 0.001243 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.42116904  0.05795966  0.05344792  0.05047239 -0.12851992]
+ [-0.2697176  -0.11085338 -0.14027614  0.03185901  0.00952844]]. 
+
+
+Solved for 0.3474 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.90752798  0.35529868  0.34887652  0.34113383  0.06206868]
+ [-0.46934541 -0.21268265 -0.24899516  0.01236391 -0.01852669]]. 
+
+
+Solved for 0.00124 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42107916  0.05775624  0.05314489  0.05046907 -0.12850044]
+ [-0.26980748 -0.1109419  -0.14045193  0.03194659  0.00954862]]. 
+
+
+Solved for 0.001236 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42079408  0.05739969  0.0530399   0.0501377  -0.12857093]
+ [-0.27009256 -0.11135066 -0.14059804  0.03158216  0.00949182]]. 
+
+
+Solved for 0.001236 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.42055324  0.05734624  0.05304373  0.05015426 -0.12865271]
+ [-0.2703334  -0.11111024 -0.1401246   0.03182576  0.00982264]]. 
+
+
+Solved for 0.001282 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.42181607  0.05851877  0.0541574   0.05135786 -0.12747775]
+ [-0.26907058 -0.11001743 -0.13933916  0.03299438  0.01068397]]. 
+
+
+Solved for 0.2455 seconds.
+For n_discr = 5, eta = 0.001, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.89205466  0.29680093  0.28862615  0.2813062  -0.01826143]
+ [-0.48284414 -0.21247625 -0.25573512  0.02754402 -0.00762395]]. 
+
+
+
+Solved for 0.0544 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.86440514  0.42015925  0.54030855  0.46343239  0.53060905  0.49137078
+   0.52971867  0.54128073  0.3696204   0.4771629 ]
+ [-0.31997196 -0.13989848 -0.20316224 -0.0973277  -0.20196635 -0.17347542
+  -0.04307797  0.02028414 -0.07522721 -0.05109431]]. 
+
+
+Solved for 0.1759 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.97806381  0.81281014  0.88554199  0.86318862  0.87663036  0.84873412
+   0.84937725  0.85749243  0.73600813  0.75324344]
+ [-0.33462082 -0.24119607 -0.2262659  -0.14808774 -0.21939374 -0.19325888
+  -0.10665616 -0.04862019 -0.10647709 -0.12350068]]. 
+
+
+Solved for 0.9268 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.86354765  0.8352948   0.85787412  0.84250589  0.84294324  0.83659376
+   0.83296381  0.81965641  0.81692503  0.81816148]
+ [-0.50454472 -0.46701126 -0.44263806 -0.41591225 -0.41315118 -0.40088255
+  -0.37749055 -0.35963343 -0.33953392 -0.33253847]]. 
+
+
+Solved for 0.9368 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.81438935  0.76344705  0.76759696  0.7537469   0.75130522  0.74912873
+   0.75698848  0.76050069  0.74722969  0.75834379]
+ [-0.55370301 -0.52202296 -0.52612201 -0.51698579 -0.51223158 -0.49919195
+  -0.47390305 -0.44586827 -0.42969414 -0.42022861]]. 
+
+
+Solved for 0.9214 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.89475164  0.86784583  0.88731418  0.8803165   0.89912904  0.89245453
+   0.90084514  0.89260783  0.86413899  0.86479096]
+ [-0.47334072 -0.43867711 -0.40764358 -0.376198   -0.35752471 -0.33080644
+  -0.29481819 -0.26514226 -0.28967041 -0.27387919]]. 
+
+
+Solved for 0.1465 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 1.14482749  0.97960489  1.04977761  0.98251233  1.02707955  1.00793391
+   0.99822389  0.99106355  0.88998933  0.93213155]
+ [-0.15566502 -0.0370582  -0.02110345  0.03231527  0.0188459   0.06639603
+   0.13882627  0.21407355  0.18936922  0.22136324]]. 
+
+
+Solved for 0.1662 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.82388428  0.59888921  0.66121459  0.63114413  0.64273463  0.62127892
+   0.63720398  0.65792039  0.54781121  0.59352166]
+ [-0.4851641  -0.38959199 -0.41285371 -0.34799897 -0.40852882 -0.38840446
+  -0.31952554 -0.24090798 -0.29253    -0.2716545 ]]. 
+
+
+Solved for 1.85 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.80186246  0.77577953  0.77751318  0.78100165  0.78154942  0.77372935
+   0.76528236  0.7645335   0.75586198  0.77134915]
+ [-0.57303634 -0.53873608 -0.53933686 -0.50936007 -0.495084   -0.48497565
+  -0.47092809 -0.4549778  -0.44373803 -0.42662599]]. 
+
+
+Solved for 1.849 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.83708202  0.8164321   0.82080269  0.82426981  0.83083736  0.83582387
+   0.82636211  0.82661028  0.81207472  0.81815651]
+ [-0.53781678 -0.50960031 -0.491678   -0.45980083 -0.43880848 -0.39503999
+  -0.39037278 -0.36123596 -0.35063586 -0.31579582]]. 
+
+
+Solved for 1.827 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.84970582  0.82905407  0.83617274  0.83421208  0.8354834   0.82643126
+   0.83638679  0.83173156  0.82584422  0.82996651]
+ [-0.52519298 -0.50477532 -0.48619208 -0.45959479 -0.45423994 -0.44467947
+  -0.40843947 -0.39184148 -0.37213295 -0.36443713]]. 
+
+
+Solved for 0.08328 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.83823675  0.49694956  0.59263869  0.52836543  0.57298984  0.52373467
+   0.54943996  0.57752145  0.41298976  0.48999908]
+ [-0.40535922 -0.23829537 -0.29995573 -0.23711941 -0.33735206 -0.3227244
+  -0.22925517 -0.13276801 -0.21373473 -0.21342737]]. 
+
+
+Solved for 0.1931 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.91991739  0.77468376  0.85031563  0.82409277  0.84607318  0.82227821
+   0.82766576  0.81726727  0.75599796  0.80457911]
+ [-0.39904803 -0.27778114 -0.24672    -0.17838711 -0.2366427  -0.22264269
+  -0.15403116 -0.09336786 -0.1327472  -0.10217893]]. 
+
+
+Solved for 4.719 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.82629452  0.81576623  0.81817343  0.81767455  0.8235041   0.82201705
+   0.82250949  0.82255098  0.81871232  0.8197859 ]
+ [-0.55272074 -0.53059591 -0.51074762 -0.48948442 -0.46121323 -0.4422925
+  -0.41950767 -0.40297163 -0.38014457 -0.36106076]]. 
+
+
+Solved for 4.661 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.86201169  0.86240661  0.87020711  0.86994277  0.86936674  0.87519304
+   0.87537397  0.86670731  0.8587241   0.8558829 ]
+ [-0.51700357 -0.49182071 -0.46542419 -0.44257296 -0.42291685 -0.38923895
+  -0.36527369 -0.35111522 -0.33515579 -0.3146779 ]]. 
+
+
+Solved for 4.692 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.84859722  0.83939264  0.84731459  0.8461829   0.85081327  0.84621473
+   0.8523087   0.8531533   0.8509101   0.85498109]
+ [-0.53041804 -0.51367273 -0.48511438 -0.46510593 -0.44255101 -0.42920957
+  -0.40172844 -0.36873732 -0.34772927 -0.32387972]]. 
+
+
+Solved for 0.04714 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.80380476  0.33538172  0.47441275  0.40835133  0.47107217  0.44163398
+   0.45872752  0.49804046  0.32202171  0.42735124]
+ [-0.34767298 -0.14588229 -0.20179086 -0.08676902 -0.21703858 -0.15432182
+  -0.03975558  0.05936525 -0.05592765 -0.05318667]]. 
+
+
+Solved for 0.2154 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.99064648  0.85754784  0.8971199   0.83963818  0.85287733  0.83057078
+   0.82302521  0.82352849  0.71904742  0.74646671]
+ [-0.33355293 -0.25021864 -0.25531315 -0.22004255 -0.27802692 -0.25245122
+  -0.18010002 -0.12478783 -0.16739922 -0.15012093]]. 
+
+
+Solved for 9.326 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.80992617  0.80228751  0.80526429  0.80394586  0.80356632  0.80109538
+   0.80183481  0.80119527  0.80128782  0.80452726]
+ [-0.57046673 -0.54703147 -0.52860807 -0.50860841 -0.49257968 -0.46997461
+  -0.4551754  -0.43293848 -0.41608218 -0.39826714]]. 
+
+
+Solved for 9.214 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.8805798   0.88587661  0.88561009  0.88795826  0.8893569   0.89133858
+   0.88989764  0.88569984  0.88395554  0.88075658]
+ [-0.4998131  -0.48415728 -0.46590332 -0.43561216 -0.412121   -0.38365895
+  -0.36227527 -0.33894177 -0.31441616 -0.29693721]]. 
+
+
+Solved for 9.237 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.82366716  0.82181173  0.82725095  0.82608843  0.82926541  0.8284638
+   0.83036463  0.8326949   0.82979726  0.83212731]
+ [-0.55672574 -0.52743992 -0.50414474 -0.48375932 -0.46256185 -0.44821677
+  -0.42091876 -0.39852423 -0.38557593 -0.36209441]]. 
+
+
+Solved for 0.07355 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.93832925  0.57206219  0.69610308  0.63450148  0.67758678  0.63589644
+   0.6758729   0.67914263  0.52521608  0.64055256]
+ [-0.28991368 -0.13162709 -0.16213867 -0.06608147 -0.18835099 -0.16205791
+  -0.03958341  0.0183854  -0.08055817 -0.02710458]]. 
+
+
+Solved for 0.1096 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 1.03254647  0.78315135  0.86656371  0.81192874  0.84551727  0.80075301
+   0.8125613   0.81490503  0.68802871  0.76912366]
+ [-0.24293656 -0.14324455 -0.15917145 -0.07692005 -0.15809226 -0.13823225
+  -0.05175021  0.01699038 -0.03858621  0.0016108 ]]. 
+
+
+Solved for 46.09 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.83562006  0.83742976  0.84105209  0.84213316  0.84183504  0.84056972
+   0.83984258  0.8397213   0.83757423  0.83518801]
+ [-0.54587693 -0.52337992 -0.49794859 -0.47515676 -0.45494025 -0.43821464
+  -0.41749942 -0.39611773 -0.37749975 -0.3595056 ]]. 
+
+
+Solved for 45.84 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.83141421  0.83074565  0.83232244  0.83309069  0.83468487  0.83372605
+   0.83420049  0.83233922  0.82962978  0.82802139]
+ [-0.55008279 -0.53006775 -0.50878431 -0.48918475 -0.46796183 -0.44804726
+  -0.42868427 -0.40989769 -0.39503955 -0.37616969]]. 
+
+
+Solved for 45.75 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.83709201  0.83906928  0.8406627   0.84251777  0.84248488  0.84056441
+   0.839785    0.83792708  0.83746202  0.83699285]
+ [-0.54440498 -0.52133191 -0.49881354 -0.47545928 -0.45671725 -0.43991628
+  -0.42004271 -0.40254964 -0.38388945 -0.36436839]]. 
+
+
+Solved for 0.08262 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.79756166  0.47371226  0.57005755  0.47511099  0.51199372  0.51073147
+   0.51288558  0.53560444  0.35836593  0.44008819]
+ [-0.4460343  -0.25606565 -0.31826883 -0.26463951 -0.37839412 -0.28234729
+  -0.19312707 -0.08580569 -0.2228172  -0.20310682]]. 
+
+
+Solved for 0.1832 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.82757402  0.63456463  0.7058801   0.68335337  0.71454226  0.71173572
+   0.72774451  0.74988061  0.67439117  0.70662817]
+ [-0.48840054 -0.37907505 -0.3614923  -0.28120734 -0.32739353 -0.28259874
+  -0.2122139  -0.12909892 -0.15682434 -0.15119452]]. 
+
+
+|70% of the iterations completed.|
+|80% of the iterations completed.|
+|90% of the iterations completed.|
+|100% of the iterations completed.|
+Solved for 91.72 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.84766444  0.85223916  0.8538655   0.85391438  0.85423895  0.85477108
+   0.85255866  0.85086967  0.84848408  0.84655005]
+ [-0.53397069 -0.51200782 -0.48975843 -0.4687856  -0.44653242 -0.42431396
+  -0.40651658 -0.38774609 -0.36978544 -0.35092559]]. 
+
+
+|70% of the iterations completed.|
+|80% of the iterations completed.|
+|90% of the iterations completed.|
+|100% of the iterations completed.|
+Solved for 92.18 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.83129694  0.83180559  0.83293226  0.83413196  0.83422739  0.83398221
+   0.8330652   0.83185854  0.83038598  0.8275574 ]
+ [-0.55033819 -0.52817513 -0.50755965 -0.48528025 -0.46392186 -0.44327138
+  -0.42406026 -0.40473187 -0.38652388 -0.37061483]]. 
+
+
+|70% of the iterations completed.|
+|80% of the iterations completed.|
+|90% of the iterations completed.|
+|100% of the iterations completed.|
+Solved for 92.09 seconds.
+For n_discr = 10, eta = 0.1, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.83519509  0.83596354  0.83642654  0.83686382  0.83685663  0.83640785
+   0.83546685  0.83371538  0.83078496  0.83005857]
+ [-0.54644003 -0.52566974 -0.50586731 -0.48409135 -0.46362712 -0.44300654
+  -0.42301981 -0.40645421 -0.387989   -0.36897966]]. 
+
+
+
+Solved for 0.09919 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 1.16787097  0.66146497  0.82790245  0.74026885  0.8255279   0.77711412
+   0.81250824  0.84357042  0.62718714  0.74674585]
+ [-0.09875454  0.14684577  0.09290276  0.21615625  0.08834459  0.1277611
+   0.25732941  0.37872396  0.24709284  0.26221665]]. 
+
+
+Solved for 0.07569 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.88715066  0.29124224  0.46635401  0.36741219  0.45112666  0.40535658
+   0.47456808  0.5208593   0.28189516  0.42911562]
+ [-0.34109227 -0.08527365 -0.16502767 -0.03637705 -0.19265308 -0.12211855
+   0.04996586  0.19911308  0.07139376  0.11372293]]. 
+
+
+Solved for 0.914 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.89660848  0.82444725  0.84559379  0.83317007  0.86372281  0.86181877
+   0.87075628  0.86343281  0.8324795   0.8553504 ]
+ [-0.47148389 -0.40872676 -0.42184309 -0.36965453 -0.35631214 -0.31884554
+  -0.27707621 -0.24913176 -0.22604998 -0.19706068]]. 
+
+
+Solved for 0.9221 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.91900728  0.82944799  0.85871881  0.8482081   0.85925915  0.85399912
+   0.85301278  0.84810725  0.80543312  0.82592973]
+ [-0.44908509 -0.41995848 -0.40431962 -0.36078019 -0.37684179 -0.36136033
+  -0.33535036 -0.30898527 -0.30149568 -0.28594555]]. 
+
+
+Solved for 0.9127 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.90303487  0.82719094  0.85943772  0.85271823  0.86424155  0.85518187
+   0.86074883  0.85844852  0.81937381  0.83055807]
+ [-0.46505749 -0.41069698 -0.40310558 -0.35539731 -0.36172432 -0.33792327
+  -0.29443489 -0.27309569 -0.26291135 -0.25483943]]. 
+
+
+Solved for 0.04748 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.79394668  0.15198063  0.33790691  0.23403337  0.33493068  0.27818873
+   0.33953653  0.37241704  0.10579106  0.24672596]
+ [-0.35753106 -0.08615468 -0.1756396  -0.03787829 -0.19293491 -0.14259002
+   0.0576693   0.16976304 -0.00844233  0.00988927]]. 
+
+
+Solved for 0.0902 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.9165451   0.36898432  0.54042068  0.43559718  0.5165386   0.47156885
+   0.50560292  0.54427316  0.3170587   0.42721159]
+ [-0.33961244 -0.11425013 -0.17766216 -0.07551545 -0.22117809 -0.17361778
+  -0.03131554  0.09577844 -0.03557163 -0.03285296]]. 
+
+
+Solved for 1.075 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.91354845  0.8462444   0.87658644  0.86020852  0.87537694  0.86569935
+   0.86826233  0.88395038  0.84638877  0.86313445]
+ [-0.4566133  -0.41846913 -0.39972317 -0.36500894 -0.36512886 -0.34392013
+  -0.30809628 -0.25459105 -0.25753194 -0.23706966]]. 
+
+
+Solved for 1.827 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.83174063  0.77766799  0.79622508  0.78254449  0.793084    0.78358925
+   0.78818774  0.7851497   0.75614174  0.75927361]
+ [-0.54315817 -0.51051246 -0.48734066 -0.46678939 -0.45726491 -0.4309109
+  -0.39825626 -0.3753369  -0.37912981 -0.36095746]]. 
+
+
+Solved for 1.823 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.8982669   0.85613481  0.88136963  0.87487223  0.8919539   0.88429378
+   0.88593761  0.88579296  0.85754502  0.86151985]
+ [-0.4766319  -0.45751229 -0.41975411 -0.38919916 -0.36277745 -0.33388393
+  -0.30048841 -0.2745524  -0.27761089 -0.25965559]]. 
+
+
+Solved for 0.04582 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.76844249  0.11692544  0.3202474   0.21356379  0.31469669  0.26457162
+   0.30664756  0.34513724  0.08641354  0.2598635 ]
+ [-0.38303525 -0.11632515 -0.18434024 -0.04928736 -0.21574447 -0.16790367
+  -0.01062271  0.13512418 -0.0202605   0.02748836]]. 
+
+
+Solved for 0.1934 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 1.054979    0.68694465  0.80628416  0.72889061  0.77226671  0.74751598
+   0.77897349  0.79703126  0.65154219  0.74363004]
+ [-0.26398641 -0.10405339 -0.1184365  -0.04572006 -0.15247151 -0.10740625
+   0.01842672  0.1075495   0.0427998   0.06899385]]. 
+
+
+Solved for 3.405 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.83158795  0.81139049  0.81739773  0.81802202  0.81886538  0.81840937
+   0.81841151  0.81867809  0.80940667  0.81363346]
+ [-0.54649076 -0.50979258 -0.49907046 -0.46961105 -0.46252145 -0.4393622
+  -0.41924776 -0.39542253 -0.39176609 -0.38007637]]. 
+
+
+Solved for 4.567 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.8585652   0.84505975  0.85105547  0.84850557  0.84668117  0.84532123
+   0.84730445  0.84949919  0.83979239  0.84343008]
+ [-0.52045006 -0.49525926 -0.48078255 -0.45615915 -0.44890609 -0.42682096
+  -0.39757023 -0.37035127 -0.35285007 -0.33615117]]. 
+
+
+Solved for 4.624 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.83770846  0.82262377  0.82647994  0.82795521  0.83210978  0.83253248
+   0.83514672  0.83464535  0.82944847  0.83321517]
+ [-0.5413068  -0.50694278 -0.4948953  -0.4679498  -0.45119823 -0.42960599
+  -0.4030422  -0.3869095  -0.36920087 -0.34498287]]. 
+
+
+Solved for 0.04571 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.88669124  0.24274562  0.44867899  0.33482687  0.44276782  0.39740877
+   0.4513721   0.49257931  0.23082992  0.38445625]
+ [-0.2647865   0.01653573 -0.04919039  0.07338965 -0.08051613 -0.02205109
+   0.15550455  0.31079332  0.15040932  0.17244558]]. 
+
+
+Solved for 0.184 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 1.01413115  0.65794508  0.77188094  0.69838941  0.74362503  0.71488014
+   0.72497102  0.74269245  0.5782861   0.68350703]
+ [-0.30184342 -0.12835979 -0.17689971 -0.08992173 -0.19161511 -0.1569573
+  -0.07822614  0.00313452 -0.08177934 -0.04444087]]. 
+
+
+Solved for 9.222 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.82872136  0.82047383  0.82634667  0.82830572  0.83222429  0.83381027
+   0.83425597  0.83214724  0.83001047  0.8279791 ]
+ [-0.55167153 -0.52266114 -0.50252095 -0.47859076 -0.45495558 -0.43278327
+  -0.41218839 -0.38925815 -0.36324631 -0.3479429 ]]. 
+
+
+Solved for 9.11 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.84005745  0.82957959  0.83100697  0.82602481  0.82553764  0.82367884
+   0.82471823  0.82613495  0.82076361  0.82015471]
+ [-0.54033545 -0.52029028 -0.50560828 -0.48720357 -0.47367416 -0.45367555
+  -0.43028404 -0.40713851 -0.39094031 -0.37733703]]. 
+
+
+Solved for 9.297 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.85932066  0.85884999  0.86120692  0.86257921  0.86189299  0.86061666
+   0.86140683  0.86416567  0.8593913   0.85991269]
+ [-0.52107223 -0.49430399 -0.47685932 -0.45188854 -0.44048275 -0.42345488
+  -0.4030645  -0.37966963 -0.36280076 -0.33707259]]. 
+
+
+Solved for 0.02956 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.72183182  0.08289911  0.27306082  0.17537771  0.27742563  0.22637073
+   0.2753479   0.32253705  0.0622679   0.22125831]
+ [-0.31449815 -0.02876172 -0.1159123   0.0302734  -0.13404158 -0.08860038
+   0.07995956  0.23801021  0.06938015  0.1037058 ]]. 
+
+
+Solved for 0.1148 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.98245859  0.49211785  0.64717675  0.54972586  0.64469363  0.61241502
+   0.64838694  0.66520781  0.4405701   0.57047715]
+ [-0.29302445 -0.04801989 -0.11345412 -0.01688897 -0.11437128 -0.06332941
+   0.07093665  0.16338319  0.03687999  0.06395195]]. 
+
+
+Solved for 16.02 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.83592825  0.83363623  0.83891923  0.83853663  0.84063315  0.840264
+   0.83727417  0.83639107  0.83031402  0.82830712]
+ [-0.54504587 -0.51871403 -0.49456356 -0.47277792 -0.45112197 -0.42737509
+  -0.40755895 -0.38496655 -0.36466071 -0.3479113 ]]. 
+
+
+Solved for 46.0 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.84552939  0.84693525  0.85102533  0.8523063   0.85303751  0.85374212
+   0.85090603  0.850972    0.84947591  0.84839895]
+ [-0.5359676  -0.51334056 -0.48863374 -0.46586119 -0.44636544 -0.42656874
+  -0.40835806 -0.38563131 -0.36648301 -0.34816097]]. 
+
+
+Solved for 46.01 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.84244402  0.84344908  0.84537578  0.84594523  0.84646213  0.84398747
+   0.84452453  0.84288916  0.84057129  0.83898424]
+ [-0.53905297 -0.51579667 -0.49533546 -0.47322028 -0.45346476 -0.43537395
+  -0.41345675 -0.3949263  -0.37941081 -0.36146373]]. 
+
+
+Solved for 0.009433 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 4.01653989e-01 -6.94807184e-02  7.77794341e-02 -3.33036288e-04
+   7.57346463e-02  3.84352543e-02  7.47626209e-02  1.03505018e-01
+  -8.63510074e-02  2.68469368e-02]
+ [-2.89232657e-01 -8.41663112e-02 -1.33450360e-01 -2.94812283e-02
+  -1.54981745e-01 -1.12781972e-01  7.75776082e-03  1.06133697e-01
+  -1.55559178e-02 -2.89901959e-03]]. 
+
+
+Solved for 0.08451 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.88164647  0.31825086  0.49344855  0.39929988  0.50206939  0.43135143
+   0.47752769  0.50785392  0.27084113  0.39920663]
+ [-0.36194949 -0.09593185 -0.16612116 -0.03506322 -0.17409185 -0.18251157
+  -0.02494494  0.09363052 -0.05048187 -0.03744167]]. 
+
+
+Solved for 11.7 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.83805418  0.83375803  0.83804016  0.83883805  0.84016082  0.84099638
+   0.84140515  0.8417302   0.83607241  0.83709021]
+ [-0.54263622 -0.51515748 -0.49758724 -0.47254    -0.45370017 -0.43020647
+  -0.40880467 -0.38663753 -0.37009671 -0.35096101]]. 
+
+
+|70% of the iterations completed.|
+|80% of the iterations completed.|
+|90% of the iterations completed.|
+|100% of the iterations completed.|
+Solved for 93.36 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.83663937  0.83694867  0.83941961  0.83970711  0.83952996  0.83875318
+   0.83756716  0.83807538  0.83571625  0.83470393]
+ [-0.54499576 -0.52240925 -0.49974178 -0.47833212 -0.45843739 -0.44094138
+  -0.4222782  -0.40089194 -0.38190444 -0.36377009]]. 
+
+
+|70% of the iterations completed.|
+|80% of the iterations completed.|
+|90% of the iterations completed.|
+|100% of the iterations completed.|
+Solved for 93.66 seconds.
+For n_discr = 10, eta = 0.05, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.8357759   0.83592238  0.83853131  0.8396183   0.84083341  0.84157746
+   0.83916311  0.83851031  0.8363582   0.83493094]
+ [-0.54585923 -0.52283616 -0.49976897 -0.47763546 -0.45641085 -0.43568831
+  -0.41990986 -0.39945313 -0.38187712 -0.36210608]]. 
+
+
+
+Solved for 0.009158 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.41700824 -0.0962697   0.05791909 -0.02962929  0.05450433  0.01135724
+   0.05045565  0.08049145 -0.12734998 -0.00341375]
+ [-0.27387841 -0.05591276 -0.12079023 -0.0190312  -0.14868115 -0.11402642
+   0.0194448   0.1248318  -0.00335148  0.01804607]]. 
+
+
+Solved for 0.009867 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.42883333 -0.08376678  0.0716444  -0.01535903  0.06714073  0.02507492
+   0.0649435   0.09467117 -0.11202147  0.01188369]
+ [-0.26205332 -0.04372241 -0.10771376 -0.00520422 -0.13647771 -0.10086257
+   0.03347766  0.13821271  0.01050478  0.03177779]]. 
+
+
+Solved for 0.461 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 1.03549889  0.4113683   0.61153022  0.49508142  0.59926131  0.54028189
+   0.58182425  0.61230865  0.34663832  0.49896503]
+ [-0.31918081 -0.04033157 -0.09570234  0.02594948 -0.13126095 -0.09153562
+   0.06976236  0.21491018  0.06096489  0.0876764 ]]. 
+
+
+Solved for 0.9239 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 1.14078211  0.72921185  0.86382611  0.78860521  0.85894649  0.81758989
+   0.84735618  0.86448716  0.68153169  0.78168065]
+ [-0.22731025 -0.03939284 -0.07128783  0.03181593 -0.06256386 -0.01789241
+   0.1117223   0.21179366  0.12134217  0.13899613]]. 
+
+
+Solved for 0.9255 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 1.08361006  0.6736642   0.79712426  0.71156496  0.78053112  0.73681984
+   0.76443473  0.77915833  0.60130431  0.69792887]
+ [-0.28448231 -0.09621832 -0.14550415 -0.05164736 -0.13704186 -0.09800799
+   0.03072626  0.12534298  0.0369688   0.06287106]]. 
+
+
+Solved for 0.009619 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42211986 -0.09028356  0.06574646 -0.02219433  0.06219915  0.02044317
+   0.05990772  0.09053963 -0.1157646   0.00855294]
+ [-0.26876678 -0.04851809 -0.11213441 -0.01105842 -0.13915992 -0.10257078
+   0.03237753  0.13656227  0.01065918  0.03169431]]. 
+
+
+Solved for 0.009225 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42457447 -0.08906313  0.06599348 -0.02208842  0.06337681  0.02092897
+   0.05885224  0.08791405 -0.11890648  0.00487356]
+ [-0.26631217 -0.04939455 -0.11316338 -0.0117735  -0.14011194 -0.10506478
+   0.02722484  0.13210603  0.00439045  0.02580442]]. 
+
+
+Solved for 0.4723 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 1.00405198  0.37660231  0.56926223  0.45654261  0.55212109  0.49211581
+   0.54109994  0.5835177   0.3222653   0.46873069]
+ [-0.35114875 -0.07987932 -0.14666706 -0.02128825 -0.18698636 -0.14713413
+   0.031496    0.16934903  0.01947661  0.04545108]]. 
+
+
+Solved for 0.9045 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 1.00595651  0.57921872  0.71390005  0.62979702  0.6982294   0.66002386
+   0.6902987   0.71605646  0.52868979  0.63594161]
+ [-0.36185947 -0.17113643 -0.2140096  -0.1206251  -0.2229791  -0.18071539
+  -0.06157487  0.04247039 -0.06536406 -0.03516518]]. 
+
+
+Solved for 1.868 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.9556323   0.72041812  0.79533812  0.74769039  0.78105256  0.76012922
+   0.7729459   0.78792414  0.68373767  0.73872959]
+ [-0.4192665  -0.30906892 -0.32510172 -0.2636268  -0.32417962 -0.30027528
+  -0.22754978 -0.1495328  -0.19271269 -0.18309357]]. 
+
+
+Solved for 0.0094 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42053703 -0.09191166  0.06400424 -0.02355003  0.0601198   0.01800781
+   0.05765648  0.0888607  -0.11746663  0.00669232]
+ [-0.27034961 -0.0498381  -0.11360594 -0.01183927 -0.14163137 -0.1062899
+   0.02824647  0.1351005   0.00834519  0.02842874]]. 
+
+
+Solved for 0.009591 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 4.14137516e-01 -9.89891169e-02  5.77575609e-02 -2.93795753e-02
+   5.41228169e-02  1.21719408e-02  5.13321658e-02  8.20836180e-02
+  -1.24427650e-01  4.13608864e-05]
+ [-2.76749130e-01 -5.66247808e-02 -1.18425299e-01 -1.48777362e-02
+  -1.45087986e-01 -1.07202505e-01  2.72855892e-02  1.33979425e-01
+   6.31497708e-03  2.79272098e-02]]. 
+
+
+Solved for 0.3629 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 1.07510833  0.38706745  0.59103303  0.46355056  0.5722851   0.51236221
+   0.56504381  0.60133186  0.31292021  0.47002267]
+ [-0.27123488  0.03325095 -0.06172037  0.07412918 -0.10479747 -0.04592919
+   0.14620941  0.29510967  0.11917526  0.13641693]]. 
+
+
+Solved for 0.692 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 1.10439201  0.60361579  0.75576628  0.66525885  0.74639919  0.69948046
+   0.74161982  0.76671288  0.54157481  0.65156432]
+ [-0.25920006 -0.03939536 -0.10268798  0.01545533 -0.10980288 -0.06395153
+   0.08289831  0.1943355   0.08150899  0.10262763]]. 
+
+
+Solved for 4.609 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.88291467  0.78983208  0.82367162  0.80982165  0.8283257   0.81842151
+   0.83077845  0.83623143  0.79332363  0.80827977]
+ [-0.49610059 -0.43756776 -0.42694669 -0.37955143 -0.38771162 -0.3622914
+  -0.30954512 -0.26973803 -0.27383863 -0.25671702]]. 
+
+
+Solved for 0.009766 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42555631 -0.08761094  0.06915477 -0.01832124  0.06517564  0.02321113
+   0.0620201   0.09215641 -0.11417566  0.01086712]
+ [-0.26533033 -0.0460815  -0.10820067 -0.00638128 -0.13663061 -0.10110709
+   0.03141431  0.13608895  0.00872552  0.03141703]]. 
+
+
+Solved for 0.0202 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.58328219 -0.09491936  0.11020794 -0.00534234  0.10657807  0.05069428
+   0.10312977  0.14402491 -0.12870243  0.03588975]
+ [-0.3379     -0.04910933 -0.13366729  0.00073389 -0.16797617 -0.12097036
+   0.05675987  0.19727447  0.02853105  0.05665543]]. 
+
+
+Solved for 0.4242 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.98808253  0.31661567  0.52041092  0.40474019  0.50656749  0.45463424
+   0.50564367  0.53784203  0.26363131  0.42861855]
+ [-0.36298469 -0.09168508 -0.1667964  -0.02981232 -0.20153111 -0.14596196
+   0.02851071  0.16823063  0.01086054  0.03778109]]. 
+
+
+Solved for 1.117 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.98202899  0.61153197  0.73175161  0.66271021  0.72966919  0.69735068
+   0.71761441  0.73351967  0.57693282  0.6698509 ]
+ [-0.38841829 -0.22737992 -0.2530792  -0.17366172 -0.25001139 -0.21449945
+  -0.11353014 -0.0239668  -0.10878117 -0.07534057]]. 
+
+
+Solved for 9.292 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.87232536  0.83133324  0.84786344  0.83849984  0.84869993  0.84310964
+   0.84697098  0.84605654  0.82017661  0.82898779]
+ [-0.50806753 -0.46795747 -0.452095   -0.4237431  -0.41358745 -0.38910422
+  -0.35234747 -0.32960515 -0.32852062 -0.30650925]]. 
+
+
+Solved for 0.009382 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.42421131 -0.08860297  0.06742658 -0.02068646  0.06253368  0.0214731
+   0.06122275  0.09131723 -0.11675277  0.00754   ]
+ [-0.26667534 -0.04798595 -0.11131108 -0.01030877 -0.14075651 -0.1038922
+   0.0305395   0.13517413  0.00582042  0.02740331]]. 
+
+
+Solved for 0.009447 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42956    -0.08339562  0.07345514 -0.0140698   0.06932977  0.02754188
+   0.0668777   0.09785082 -0.10882112  0.01509688]
+ [-0.26132665 -0.03962676 -0.10127521  0.00102754 -0.12939987 -0.09370456
+   0.04185315  0.14765878  0.02127449  0.04431535]]. 
+
+
+Solved for 0.3036 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.94901652  0.21161296  0.44217414  0.31256539  0.43266099  0.37054543
+   0.42521539  0.46416304  0.16647296  0.34612803]
+ [-0.39088485 -0.06825815 -0.14801943 -0.0041376  -0.18822467 -0.13449085
+   0.05736836  0.21290162  0.04168969  0.06882942]]. 
+
+
+Solved for 0.8828 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 1.04748953  0.60871493  0.74515986  0.66454908  0.73618637  0.69771087
+   0.73420971  0.75459417  0.56690186  0.67524469]
+ [-0.31958404 -0.11896219 -0.16775112 -0.0636276  -0.17423409 -0.12855936
+   0.01182715  0.10895323  0.00816771  0.03243906]]. 
+
+
+Solved for 45.88 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.84738978  0.84056193  0.84687754  0.84780038  0.84853479  0.84668595
+   0.84528015  0.8434391   0.83652865  0.83703202]
+ [-0.53410721 -0.50782482 -0.48433375 -0.45995818 -0.4448949  -0.42491704
+  -0.40526957 -0.38607678 -0.37057492 -0.3516672 ]]. 
+
+
+Solved for 0.009188 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42640259 -0.08794677  0.0681142  -0.01881624  0.06533756  0.02299941
+   0.06181143  0.09251769 -0.113364    0.01068328]
+ [-0.26448405 -0.0469407  -0.11002849 -0.00757434 -0.13676798 -0.10176477
+   0.03118218  0.13681264  0.00985738  0.03077256]]. 
+
+
+Solved for 0.009032 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42186971 -0.09204333  0.06482939 -0.0234351   0.0605252   0.01771377
+   0.05639506  0.08803286 -0.11823746  0.00663784]
+ [-0.26901693 -0.05117536 -0.11326349 -0.01249207 -0.14203436 -0.10747994
+   0.02550823  0.13215257  0.00473042  0.02690953]]. 
+
+
+Solved for 0.4079 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.95622523  0.27013491  0.48156836  0.35787612  0.46839534  0.41469444
+   0.4676542   0.50630199  0.21862303  0.37976921]
+ [-0.39184627 -0.09130709 -0.16835993 -0.0367963  -0.20970628 -0.15186355
+   0.03715385  0.19091501  0.02668718  0.04857918]]. 
+
+
+Solved for 0.7111 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 1.09658354  0.59906785  0.75835714  0.66828159  0.74402454  0.70199542
+   0.73431233  0.75193028  0.53771382  0.65930292]
+ [-0.26700852 -0.0485449  -0.09711108  0.02135784 -0.10380971 -0.05169607
+   0.0904052   0.20029422  0.08120994  0.11329896]]. 
+
+
+|70% of the iterations completed.|
+|80% of the iterations completed.|
+|90% of the iterations completed.|
+|100% of the iterations completed.|
+Solved for 91.04 seconds.
+For n_discr = 10, eta = 0.01, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.83792553  0.83461913  0.83621031  0.83614688  0.83706776  0.835736
+   0.83535619  0.83444025  0.83120332  0.83069798]
+ [-0.5437096  -0.51857773 -0.4998311  -0.47704094 -0.4584158  -0.44142799
+  -0.4208718  -0.40099008 -0.38328321 -0.36521337]]. 
+
+
+
+Solved for 0.0093 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.41943302 -0.09908346  0.05929007 -0.029395    0.05527267  0.01275672
+   0.05250564  0.08372309 -0.12492686  0.00073544]
+ [-0.27145362 -0.05022868 -0.11278599 -0.01046165 -0.14070403 -0.1052049
+   0.03078595  0.1379271   0.00960145  0.03149175]]. 
+
+
+Solved for 0.01044 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.43420244 -0.08442691  0.07400047 -0.0143165   0.06998478  0.0275304
+   0.06722727  0.09844407 -0.11013964  0.01526758]
+ [-0.25668421 -0.03493378 -0.0969409   0.0062676  -0.12460722 -0.08885529
+   0.04587934  0.15310617  0.02265832  0.04330112]]. 
+
+
+Solved for 0.1723 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.89822843 -0.00553659  0.26735734  0.11219701  0.25903668  0.1824963
+   0.25215343  0.30913021 -0.05648276  0.16406747]
+ [-0.41081995 -0.02583389 -0.13883791  0.04028688 -0.18859621 -0.12966148
+   0.1081937   0.30172586  0.07846795  0.11538552]]. 
+
+
+Solved for 0.7102 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 1.03471255  0.3172803   0.52945941  0.40614947  0.5204559   0.45864922
+   0.5131699   0.55318597  0.25680545  0.42736504]
+ [-0.32911564 -0.03206325 -0.11971198  0.02968322 -0.15047625 -0.09801038
+   0.09277418  0.24646551  0.06222015  0.08734793]]. 
+
+
+Solved for 0.9155 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 1.01159471  0.37020648  0.56320506  0.44647213  0.55373749  0.50096978
+   0.54705098  0.57740487  0.30426937  0.46115158]
+ [-0.35649766 -0.07635528 -0.15434882 -0.02214109 -0.1794263  -0.12198861
+   0.04677661  0.17834417  0.01630174  0.0514678 ]]. 
+
+
+Solved for 0.009092 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.41961642 -0.09861339  0.0594054  -0.02882516  0.05562475  0.01301606
+   0.05219947  0.08279681 -0.12667278 -0.00188553]
+ [-0.27127022 -0.05013919 -0.11343734 -0.01011734 -0.14120218 -0.10583029
+   0.02814666  0.13430559  0.00461731  0.02594269]]. 
+
+
+Solved for 0.00912 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42124443 -0.09682124  0.06087743 -0.02875584  0.05642425  0.01428738
+   0.05404401  0.08537686 -0.12317269  0.0024319 ]
+ [-0.26964221 -0.04833335 -0.11215205 -0.01068517 -0.14128201 -0.10478233
+   0.0303814   0.13761384  0.00881948  0.03050178]]. 
+
+
+Solved for 0.1186 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.85460698 -0.05255057  0.22257695  0.06771038  0.21613428  0.13894984
+   0.20521718  0.26168478 -0.10223854  0.11907081]
+ [-0.42846822 -0.04332006 -0.15614237  0.02645192 -0.20468049 -0.14368656
+   0.09031997  0.28039826  0.05789813  0.09767994]]. 
+
+
+Solved for 0.8999 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.99950943  0.35613594  0.55155994  0.43645513  0.53803147  0.48619064
+   0.53347003  0.57137468  0.30683488  0.46181467]
+ [-0.36830656 -0.08446774 -0.16519685 -0.03069065 -0.19787613 -0.13989626
+   0.03284269  0.18006669  0.02590007  0.0519581 ]]. 
+
+
+Solved for 1.829 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 1.04137135  0.62001516  0.74943844  0.66976703  0.74569763  0.70433977
+   0.73551621  0.75506498  0.56787044  0.67697628]
+ [-0.33352744 -0.13721214 -0.1891494  -0.0885456  -0.1829977  -0.1408356
+  -0.01359499  0.08666548 -0.01521881  0.02174   ]]. 
+
+
+Solved for 0.009334 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 0.42484209 -0.09314586  0.0640226  -0.02474458  0.05831596  0.01658651
+   0.05624001  0.08703635 -0.12153464  0.00389706]
+ [-0.26604456 -0.04524375 -0.10957079 -0.00715315 -0.13955951 -0.1031592
+   0.03189176  0.13864501  0.00970951  0.0314377 ]]. 
+
+
+Solved for 0.00932 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 4.21049530e-01 -9.68029708e-02  6.10400712e-02 -2.77589437e-02
+   5.65995218e-02  1.34133087e-02  5.28370092e-02  8.34921798e-02
+  -1.24676052e-01  8.61993385e-05]
+ [-2.69837116e-01 -4.84000095e-02 -1.12013613e-01 -9.79604172e-03
+  -1.41255032e-01 -1.06255506e-01  2.85082361e-02  1.35035043e-01
+   6.46265741e-03  2.76335478e-02]]. 
+
+
+Solved for 0.08403 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.78121576 -0.11717245  0.15841928  0.0056599   0.15120525  0.07732692
+   0.14803694  0.19947577 -0.16170081  0.0547377 ]
+ [-0.4623802  -0.0822962  -0.18815694 -0.0080462  -0.23618242 -0.17317253
+   0.06184328  0.24485834  0.02003588  0.05622053]]. 
+
+
+Solved for 0.5072 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.95338044  0.17124538  0.40875259  0.27660876  0.40402364  0.33818486
+   0.39390835  0.44074732  0.11963892  0.30498759]
+ [-0.40371833 -0.07104605 -0.16565212 -0.00208624 -0.19823517 -0.1364869
+   0.06838672  0.23953966  0.05087659  0.08234372]]. 
+
+
+Solved for 4.531 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.94358951  0.75614777  0.82032327  0.78418872  0.81245615  0.79170101
+   0.80735307  0.81570672  0.7299308   0.77458432]
+ [-0.43542575 -0.34211292 -0.34548107 -0.28924291 -0.32853755 -0.30246429
+  -0.22286935 -0.16741064 -0.20843677 -0.18119396]]. 
+
+
+Solved for 0.009205 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.42897114 -0.08936328  0.06850065 -0.02039636  0.06300193  0.02146693
+   0.06023342  0.09220563 -0.11690998  0.00774355]
+ [-0.2619155  -0.04166962 -0.10515525 -0.00286982 -0.13513364 -0.09838348
+   0.0359211   0.14357711  0.01421167  0.03540692]]. 
+
+
+Solved for 0.009104 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42140846 -0.09722972  0.0606738  -0.02801299  0.05704894  0.01466399
+   0.05427057  0.08575283 -0.1227973   0.00282007]
+ [-0.26947819 -0.04875681 -0.11220702 -0.00970787 -0.1398713  -0.10380342
+   0.03094136  0.13886821  0.0101382   0.03157843]]. 
+
+
+Solved for 0.1003 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 7.83868753e-01 -1.19150225e-01  1.54829935e-01 -6.43881340e-04
+   1.46678391e-01  7.09065483e-02  1.38597820e-01  1.94197077e-01
+  -1.70330359e-01  5.00348801e-02]
+ [-4.82756763e-01 -9.45988056e-02 -2.06738913e-01 -2.88449328e-02
+  -2.57837178e-01 -1.96235352e-01  3.70699253e-02  2.24002879e-01
+  -3.26973071e-04  4.09138260e-02]]. 
+
+
+Solved for 0.7101 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.96695505  0.26149958  0.47817407  0.35220785  0.46813302  0.40614885
+   0.45436422  0.49621126  0.20960006  0.38048304]
+ [-0.39732744 -0.08461881 -0.16861609 -0.02899514 -0.20370578 -0.15518315
+   0.03338347  0.18737011  0.02217284  0.05171021]]. 
+
+
+Solved for 9.147 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.89106627  0.79996199  0.83197538  0.81402818  0.82912391  0.82335609
+   0.8299043   0.83305631  0.78758819  0.80720692]
+ [-0.48932663 -0.42871511 -0.42091302 -0.37865229 -0.38857132 -0.35881398
+  -0.31704405 -0.27850078 -0.28722277 -0.27346328]]. 
+
+
+Solved for 0.009485 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.42061741 -0.09762502  0.05993063 -0.02835543  0.05595713  0.01346088
+   0.05291623  0.08215788 -0.12625251 -0.00100049]
+ [-0.27026923 -0.04910393 -0.11309137 -0.0100709  -0.14166154 -0.10583825
+   0.02877457  0.13415676  0.0053111   0.02690175]]. 
+
+
+Solved for 0.009298 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42643252 -0.09157318  0.06588662 -0.0224796   0.06161057  0.01983942
+   0.05936776  0.09075232 -0.11836953  0.00731136]
+ [-0.26445412 -0.04351652 -0.1075115  -0.00459951 -0.13637217 -0.09923894
+   0.0354924   0.14297799  0.01296656  0.03493081]]. 
+
+
+Solved for 0.1124 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.82057478 -0.08485848  0.19005512  0.03346579  0.17831624  0.10611692
+   0.17643074  0.2296688  -0.13465198  0.08675842]
+ [-0.45490826 -0.06814948 -0.18106438 -0.00344426 -0.23582212 -0.16914764
+   0.06756799  0.25462723  0.03086127  0.07299594]]. 
+
+
+Solved for 0.8457 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.99318301  0.3268201   0.53000839  0.41298561  0.51915249  0.46572215
+   0.51082654  0.54443776  0.26882979  0.43202782]
+ [-0.37389056 -0.09323826 -0.16651974 -0.02953519 -0.19412807 -0.13773514
+   0.03442641  0.1761571   0.0114789   0.040075  ]]. 
+
+
+Solved for 3.609 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 1.03036362  0.80743014  0.88294343  0.83253471  0.87019886  0.84648793
+   0.86381875  0.87940474  0.76932973  0.82641659]
+ [-0.34791151 -0.23569733 -0.25153668 -0.1881212  -0.23257026 -0.19887734
+  -0.11573588 -0.04239237 -0.09145423 -0.06753576]]. 
+
+
+Solved for 0.0092 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 0.42938924 -0.08874212  0.06942929 -0.02039447  0.06250248  0.01914744
+   0.0584854   0.08926547 -0.12030789  0.00598614]
+ [-0.2614974  -0.04136872 -0.10434087 -0.00295367 -0.13510402 -0.09935313
+   0.03551974  0.1424487   0.01354193  0.03529964]]. 
+
+
+Solved for 0.009179 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.4206168  -0.09791525  0.0596937  -0.0297756   0.0543288   0.01171078
+   0.05147884  0.08389603 -0.1253162   0.00080267]
+ [-0.27026984 -0.04978908 -0.11357234 -0.01163211 -0.14331687 -0.10744844
+   0.02756658  0.13558941  0.00597766  0.02819544]]. 
+
+
+Solved for 0.1378 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 0.88711441 -0.01823559  0.25667701  0.10159648  0.24996041  0.17516562
+   0.24382247  0.29790185 -0.0674119   0.15135919]
+ [-0.40829805 -0.01465929 -0.12800991  0.05117677 -0.17719524 -0.11456248
+   0.11943904  0.30785215  0.0844744   0.12092869]]. 
+
+
+Solved for 0.8137 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 1.02220623  0.35153255  0.56188137  0.44211536  0.55107112  0.49838102
+   0.5496787   0.58372031  0.30892413  0.47267531]
+ [-0.34421402 -0.0437073  -0.1132164   0.03029175 -0.13620375 -0.07848485
+   0.10708841  0.25180968  0.08887274  0.11630943]]. 
+
+
+Solved for 11.04 seconds.
+For n_discr = 10, eta = 0.005, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.88522562  0.81205222  0.83398395  0.82153322  0.83160306  0.82381253
+   0.82711224  0.83148827  0.79438337  0.81272349]
+ [-0.49540002 -0.43538533 -0.43080098 -0.38901811 -0.39493026 -0.36791486
+  -0.33007154 -0.29145009 -0.29455022 -0.27405606]]. 
+
+
+
+Solved for 0.009026 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 100, tol_i = 0.1 the gamma is 
+ [[ 0.42103918 -0.10152517  0.05768745 -0.03158322  0.05339968  0.010656
+   0.0505978   0.08204836 -0.12827709 -0.00165467]
+ [-0.26984746 -0.04710516 -0.11101864 -0.00754311 -0.14018022 -0.10381524
+   0.03216098  0.13993382  0.00981839  0.03171819]]. 
+
+
+Solved for 0.009131 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 100, tol_i = 0.05 the gamma is 
+ [[ 0.4214132  -0.10105333  0.05824692 -0.03101072  0.05393676  0.01106547
+   0.05103984  0.08249647 -0.1277629  -0.00115665]
+ [-0.26947345 -0.04666609 -0.11033164 -0.00675998 -0.13950838 -0.10347716
+   0.032606    0.14042252  0.01059103  0.03235238]]. 
+
+
+Solved for 0.009351 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 100, tol_i = 0.01 the gamma is 
+ [[ 0.42314119 -0.09932404  0.05987757 -0.02939428  0.05557667  0.01276091
+   0.05273236  0.08420975 -0.12606266  0.00058903]
+ [-0.26774545 -0.04459491 -0.10836195 -0.00491343 -0.13756931 -0.10135351
+   0.03474806  0.14250181  0.01250373  0.03441899]]. 
+
+
+Solved for 0.009206 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 100, tol_i = 0.005 the gamma is 
+ [[ 0.4211892  -0.10128376  0.05791631 -0.03135038  0.0535107   0.0106544
+   0.05057136  0.08208473 -0.1281526  -0.00147205]
+ [-0.26969745 -0.04681762 -0.11073638 -0.0072453  -0.14008772 -0.10392984
+   0.03203891  0.13990541  0.00994338  0.03193344]]. 
+
+
+Solved for 0.9059 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 100, tol_i = 0.001 the gamma is 
+ [[ 0.9011154  -0.03748249  0.2484885   0.08848453  0.24171705  0.16463072
+   0.23482659  0.29159146 -0.08811188  0.13902231]
+ [-0.46697696 -0.06456302 -0.17803471  0.0102946  -0.22578197 -0.16030831
+   0.08395139  0.28002246  0.04502188  0.08558184]]. 
+
+
+Solved for 0.009192 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 200, tol_i = 0.1 the gamma is 
+ [[ 0.42089849 -0.10155681  0.05757785 -0.03166966  0.05325867  0.01041705
+   0.05034697  0.08190211 -0.12840687 -0.00199008]
+ [-0.26998816 -0.04714476 -0.11118342 -0.00766971 -0.14038397 -0.10419921
+   0.03178851  0.13975432  0.00968158  0.03133452]]. 
+
+
+Solved for 0.009026 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 200, tol_i = 0.05 the gamma is 
+ [[ 0.42089851 -0.10156707  0.05757454 -0.03164722  0.05330911  0.01053788
+   0.05051868  0.08190767 -0.12830256 -0.0016479 ]
+ [-0.26998813 -0.04715307 -0.11116977 -0.0076077  -0.14028622 -0.10396201
+   0.03214327  0.13974557  0.00997396  0.0320597 ]]. 
+
+
+Solved for 0.009124 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 200, tol_i = 0.01 the gamma is 
+ [[ 0.42068254 -0.10186544  0.05729964 -0.03194813  0.05310072  0.01019543
+   0.05025197  0.08173463 -0.12855306 -0.00186823]
+ [-0.27020411 -0.04745537 -0.11142765 -0.00791332 -0.14041784 -0.1043696
+   0.03185096  0.13971745  0.00966101  0.03187443]]. 
+
+
+Solved for 0.009139 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 200, tol_i = 0.005 the gamma is 
+ [[ 0.42170434 -0.10078265  0.05839108 -0.03088715  0.05403965  0.01131606
+   0.05117722  0.08273049 -0.12758362 -0.00086122]
+ [-0.26918231 -0.04625222 -0.11024103 -0.00678544 -0.13952626 -0.10313607
+   0.03268277  0.14068002  0.01055962  0.03273706]]. 
+
+
+Solved for 1.845 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 200, tol_i = 0.001 the gamma is 
+ [[ 0.94526451  0.08793189  0.34787602  0.20138394  0.34021972  0.27030882
+   0.33530808  0.38608613  0.03829273  0.24447026]
+ [-0.42963429 -0.06375485 -0.16724117  0.00730433 -0.20657816 -0.14402354
+   0.08214855  0.26010635  0.04678564  0.08357988]]. 
+
+
+Solved for 0.009155 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 500, tol_i = 0.1 the gamma is 
+ [[ 4.22592369e-01 -9.97825824e-02  5.94149027e-02 -2.98219356e-02
+   5.51404710e-02  1.23331162e-02  5.22755644e-02  8.35486147e-02
+  -1.26818959e-01 -1.59852332e-04]
+ [-2.68294276e-01 -4.53815868e-02 -1.09294568e-01 -5.69194653e-03
+  -1.38339794e-01 -1.01984451e-01  3.39193291e-02  1.41278150e-01
+   1.11728593e-02  3.31561753e-02]]. 
+
+
+Solved for 0.009171 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 500, tol_i = 0.05 the gamma is 
+ [[ 0.42133744 -0.10114579  0.05800527 -0.03123019  0.05374038  0.01092643
+   0.05081005  0.08225246 -0.12801669 -0.00145403]
+ [-0.26954921 -0.04678551 -0.11078844 -0.00726065 -0.13991321 -0.10369648
+   0.03221018  0.13999458  0.00999695  0.03185386]]. 
+
+
+Solved for 0.009153 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 500, tol_i = 0.01 the gamma is 
+ [[ 0.42113273 -0.10129312  0.05791496 -0.03142858  0.05342068  0.01038599
+   0.05047417  0.08191364 -0.12843593 -0.00183537]
+ [-0.26975391 -0.04680678 -0.11070302 -0.00739012 -0.14023058 -0.10421531
+   0.03191227  0.1396982   0.00961014  0.03150814]]. 
+
+
+Solved for 0.01816 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 500, tol_i = 0.005 the gamma is 
+ [[ 0.56710802 -0.12889757  0.08312629 -0.03578667  0.0772779   0.02007444
+   0.07316854  0.11493477 -0.16513973  0.00362967]
+ [-0.35407418 -0.05763819 -0.14280914 -0.004965   -0.18173263 -0.13363626
+   0.04748704  0.19103805  0.01781142  0.04707539]]. 
+
+
+Solved for 2.065 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 500, tol_i = 0.001 the gamma is 
+ [[ 0.97749953  0.14507364  0.39998248  0.25450708  0.38932903  0.3201144
+   0.38119837  0.42901166  0.08742521  0.28937914]
+ [-0.39815972 -0.0368618  -0.13774618  0.02937891 -0.18151564 -0.12219183
+   0.09635217  0.27258894  0.06690124  0.10421629]]. 
+
+
+Solved for 0.009379 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 1000, tol_i = 0.1 the gamma is 
+ [[ 0.41988885 -0.1025553   0.05666573 -0.03260328  0.05230348  0.00946639
+   0.04947329  0.08090751 -0.12932308 -0.00268386]
+ [-0.27099779 -0.0478957  -0.1114976  -0.00803013 -0.1404723  -0.10422164
+   0.03163316  0.13952807  0.00930146  0.03128564]]. 
+
+
+Solved for 0.009327 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 1000, tol_i = 0.05 the gamma is 
+ [[ 0.42060708 -0.10196395  0.05719229 -0.03202587  0.05298821  0.01016845
+   0.05019477  0.08168957 -0.12859686 -0.00194373]
+ [-0.27027957 -0.04755292 -0.11153503 -0.00798345 -0.14056342 -0.10435561
+   0.03183484  0.13990822  0.00997107  0.0317973 ]]. 
+
+
+Solved for 0.009478 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 1000, tol_i = 0.01 the gamma is 
+ [[ 0.42189961 -0.10063975  0.05857613 -0.03061546  0.05436219  0.01154061
+   0.05148725  0.08296318 -0.12731283 -0.00067048]
+ [-0.26898704 -0.0460901  -0.10999371 -0.00629955 -0.13870049 -0.10270087
+   0.03322328  0.14107057  0.01107575  0.03293095]]. 
+
+
+Solved for 0.00934 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 1000, tol_i = 0.005 the gamma is 
+ [[ 0.42114059 -0.10133646  0.05782467 -0.03151566  0.05350708  0.01068598
+   0.05061795  0.08214799 -0.12825879 -0.00163278]
+ [-0.26974606 -0.04686922 -0.11087216 -0.00750146 -0.14007895 -0.10387994
+   0.03209545  0.14001744  0.00977339  0.03169287]]. 
+
+
+Solved for 2.869 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 1000, tol_i = 0.001 the gamma is 
+ [[ 0.9824587   0.20948445  0.44497145  0.31180866  0.43493807  0.37096745
+   0.42928993  0.47408229  0.15940363  0.3444285 ]
+ [-0.39488583 -0.06235257 -0.15574406  0.00245363 -0.1947525  -0.13543649
+   0.06786228  0.22814408  0.03674075  0.06851415]]. 
+
+
+Solved for 0.009317 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 5000, tol_i = 0.1 the gamma is 
+ [[ 0.42074209 -0.10167608  0.05751509 -0.03172931  0.05315984  0.01036752
+   0.05027535  0.08175431 -0.12846745 -0.00182793]
+ [-0.27014456 -0.04713887 -0.11107764 -0.00749771 -0.14039043 -0.10411241
+   0.03179075  0.13964258  0.0098472   0.03173109]]. 
+
+
+Solved for 0.009262 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 5000, tol_i = 0.05 the gamma is 
+ [[ 0.42096232 -0.10145909  0.0577629  -0.03147406  0.05349093  0.0105981
+   0.05057827  0.08201596 -0.12829801 -0.00183807]
+ [-0.26992433 -0.04700316 -0.11086673 -0.00721028 -0.13982523 -0.10394677
+   0.03214774  0.13988705  0.00979636  0.03146935]]. 
+
+
+Solved for 0.009278 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 5000, tol_i = 0.01 the gamma is 
+ [[ 0.42093762 -0.10167292  0.057578   -0.03175387  0.0532069   0.01050867
+   0.05042096  0.0818358  -0.12841513 -0.00195936]
+ [-0.26994903 -0.04730802 -0.11117897 -0.00776815 -0.1404299  -0.10404601
+   0.03188769  0.13961886  0.00963866  0.03135916]]. 
+
+
+Solved for 0.009308 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 5000, tol_i = 0.005 the gamma is 
+ [[ 0.42112242 -0.10132408  0.05780184 -0.03151234  0.05352842  0.01081133
+   0.05070013  0.0820296  -0.12823985 -0.0016442 ]
+ [-0.26976422 -0.04687839 -0.11092776 -0.00751079 -0.140051   -0.10350781
+   0.03222357  0.13978706  0.00978544  0.03167726]]. 
+
+
+Solved for 2.702 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 5000, tol_i = 0.001 the gamma is 
+ [[ 0.99108485  0.2092388   0.44691026  0.31033863  0.43651957  0.37159471
+   0.43073927  0.47487452  0.15524127  0.34395584]
+ [-0.38600446 -0.04300286 -0.13774946  0.02292748 -0.17489142 -0.11755342
+   0.0912207   0.25519476  0.06014326  0.09424664]]. 
+
+
+Solved for 0.009178 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 10000, tol_i = 0.1 the gamma is 
+ [[ 4.22422123e-01 -9.99056148e-02  5.92888879e-02 -2.99675184e-02
+   5.49666799e-02  1.21469818e-02  5.21053188e-02  8.35016882e-02
+  -1.26905314e-01 -4.11231466e-04]
+ [-2.68464522e-01 -4.54477465e-02 -1.09372871e-01 -5.80256128e-03
+  -1.38529788e-01 -1.02273394e-01  3.39002786e-02  1.41381801e-01
+   1.11222729e-02  3.28944236e-02]]. 
+
+
+Solved for 0.009305 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 10000, tol_i = 0.05 the gamma is 
+ [[ 0.42058617 -0.10199101  0.05723345 -0.03217997  0.05276704  0.00978698
+   0.04974355  0.08121206 -0.12888371 -0.00246786]
+ [-0.27030048 -0.04767118 -0.11157496 -0.00824276 -0.14092078 -0.1048212
+   0.03119664  0.13901133  0.00913746  0.03089797]]. 
+
+
+Solved for 0.009253 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 10000, tol_i = 0.01 the gamma is 
+ [[ 4.23126141e-01 -9.93504720e-02  5.99040713e-02 -2.93594745e-02
+   5.55375610e-02  1.26007358e-02  5.25581119e-02  8.39476000e-02
+  -1.26315315e-01  2.31713982e-04]
+ [-2.67760505e-01 -4.50747178e-02 -1.08915153e-01 -5.42096885e-03
+  -1.38192278e-01 -1.02119082e-01  3.39047265e-02  1.41654317e-01
+   1.16627274e-02  3.35438052e-02]]. 
+
+
+Solved for 0.0092 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 10000, tol_i = 0.005 the gamma is 
+ [[ 0.42089325 -0.1016647   0.05762005 -0.03171717  0.05330686  0.01052032
+   0.05040463  0.08174841 -0.12859086 -0.00195329]
+ [-0.2699934  -0.04728147 -0.11107037 -0.00770356 -0.14026011 -0.10397929
+   0.03187495  0.13950666  0.00942252  0.03136197]]. 
+
+
+Solved for 2.762 seconds.
+For n_discr = 10, eta = 0.001, N_iter = 10000, tol_i = 0.001 the gamma is 
+ [[ 0.99866399  0.22077399  0.459399    0.32366302  0.44822126  0.38152727
+   0.44093042  0.48685458  0.16826783  0.35365461]
+ [-0.37853389 -0.04144252 -0.1324276   0.02685133 -0.16949139 -0.11564117
+   0.0912221   0.25614326  0.06503335  0.09567162]]. 
+
+
