@@ -34,16 +34,26 @@ class SDE_Linear_MV_appr ():
         for i in range(1,self.n_discr):
             x[i] = x[i - 1] + (self.alpha * x[i - 1] + self.beta * self.gamma[i - 1]) * self.dt + self.sigma * self.dW_t[i - 1]
         return x
-
+    
+    ## choose notation from $n$ to something else
+    
     def get_path_for_gradient_SDE(self,n):
         ksi = np.zeros(self.n_discr)
         
-        for i in range(1,self.n_discr):
+        for i in range(1, self.n_discr):
             if (i == n):
                     ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1] + self.beta) * self.dt 
             elif (i != n):
                     ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1]) * self.dt
         return ksi
+    
+#     def get_path_for_gradient_SDE(self,n):
+#         ksi = np.zeros(self.n_discr)
+        
+#         for i in range(1, self.n_discr):
+#             ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1] + self.beta) * self.dt 
+
+#         return ksi
     
     #### Plots the path
     def plot_path(self):

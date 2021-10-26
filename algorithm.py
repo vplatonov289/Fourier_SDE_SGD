@@ -110,7 +110,7 @@ class SGD_MV():
             dW_t_2 = simulate_dW_1d(n_discr, self.T)
 
             X_1 = SDE_Linear_MV_appr(x_0 = self.x_0, alpha = self.alpha, beta = self.beta, sigma = self.sigma, 
-                 gamma = np.random.uniform(low = -0.3, high = 0.3, size = 100), 
+                 gamma = gamma, 
                  dW_t = dW_t_1, T = self.T, n_discr = n_discr)
 
 #             X_2 = SDE_Linear_MV_appr(self.x_0 = 0, alpha = alpha, beta = beta, sigma = 1, 
@@ -122,13 +122,22 @@ class SGD_MV():
 
             jacobian = np.zeros((n_discr, n_discr))
 
+            # rewrite to avoid extra calculations.
+            
             for i_1 in range(n_discr):
+                gradient_path = X_1.get_path_for_gradient_SDE(i_1)
                 for i_2 in range(n_discr):
-                    jacobian[i_1][i_2] = X_1.get_path_for_gradient_SDE(i_2)[i_1] - (i_1 == i_2)
-                        
+                    jacobian[i_2][i_1] = gradient_path[i_2] 
+            
+            #print(jacobian)
+            
+            jacobian = jacobian - np.eye(n_discr)
+            
+            #print(jacobian)
+            
             gamma_old = np.copy(gamma)
             gamma = gamma - eta * np.matmul(grad_first_part,jacobian)
-
+            #print(f'Gradient is: {np.matmul(grad_first_part,jacobian)})')
             err = abs(gamma_old - gamma).max()
             errors.append(err)
             
@@ -138,7 +147,7 @@ class SGD_MV():
                     eta = eta_base
             i += 1
             gamma_aver = i / (i + 1) * gamma_aver + 1 / (i + 1) * gamma
-            #print(eta)
+            #print(gamma)
             if (err <= eps):
                 print(f'Algorithm stopped due to reached tolerance at iteration {i}.')
 
