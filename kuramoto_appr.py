@@ -33,29 +33,27 @@ class SDE_Kuramoto_MV_appr ():
             x[i] = x[i - 1] + (self.gamma[0][i - 1] * np.sin(x[i - 1]) - self.gamma[1][i - 1] * np.cos(x[i - 1])) * self.dt + self.sigma * self.dW_t[i - 1]
         return x
 
-    def get_path_for_gradient_SDE(self,k,n):
+    def get_path_for_gradient_SDE(self,k,i):
         ksi = np.zeros(self.n_discr)
         
-        for i in range(1,self.n_discr):
-            ## check if i == n or n + 1
+        for j in range(1,self.n_discr):
             if k == 0:
-                if (i == n):
-                    ksi[i] = ksi[i - 1] + (np.sin(self.x[i - 1]) + 
-                                                 self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt
-                elif (i != n):
-                    ksi[i] = ksi[i - 1] + (self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt
-            ### CHECK the signs 
+                if (j == i):
+                    ksi[j] = ksi[j - 1] + (np.sin(self.x[j - 1]) + 
+                                                 self.gamma[0][j - 1] * np.cos(self.x[j - 1]) * ksi[j - 1] + 
+                                                 self.gamma[1][j - 1] * np.sin(self.x[j - 1]) * ksi[j - 1]) * self.dt
+                elif (j != i):
+                    ksi[j] = ksi[j - 1] + (self.gamma[0][j - 1] * np.cos(self.x[j - 1]) * ksi[j - 1] + 
+                                                 self.gamma[1][j - 1] * np.sin(self.x[j - 1]) * ksi[j - 1]) * self.dt
             
             elif k == 1:
-                if (i == n):
-                    ksi[i] = ksi[i - 1] + (-np.cos(self.x[i - 1]) + 
-                                                     self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                     self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt   
-                elif (i != n):
-                    ksi[i] = ksi[i - 1] + (self.gamma[0][i - 1] * np.cos(self.x[i - 1]) * ksi[i - 1] + 
-                                                 self.gamma[1][i - 1] * np.sin(self.x[i - 1]) * ksi[i - 1]) * self.dt
+                if (j == i):
+                    ksi[j] = ksi[j - 1] + (-np.cos(self.x[j - 1]) + 
+                                                     self.gamma[0][j - 1] * np.cos(self.x[j - 1]) * ksi[j - 1] + 
+                                                     self.gamma[1][j - 1] * np.sin(self.x[j - 1]) * ksi[j - 1]) * self.dt   
+                elif (j != i):
+                    ksi[j] = ksi[j - 1] + (self.gamma[0][j - 1] * np.cos(self.x[j - 1]) * ksi[j - 1] + 
+                                                 self.gamma[1][j - 1] * np.sin(self.x[j - 1]) * ksi[j - 1]) * self.dt
         return ksi
     
     #### Plots the path
