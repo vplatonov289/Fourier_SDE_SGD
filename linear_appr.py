@@ -37,13 +37,13 @@ class SDE_Linear_MV_appr ():
     
     ## choose notation from $n$ to something else
     
-    def get_path_for_gradient_SDE(self,n):
+    def get_path_for_gradient_SDE(self,j):
         ksi = np.zeros(self.n_discr)
         
         for i in range(1, self.n_discr):
-            if (i == n):
+            if (i == j):
                     ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1] + self.beta) * self.dt 
-            elif (i != n):
+            elif (i != j):
                     ksi[i] = ksi[i - 1] + (self.alpha * ksi[i - 1]) * self.dt
         return ksi
     
