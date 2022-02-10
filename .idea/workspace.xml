@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a395732-b9e9-493d-af3f-17d940e5588b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Fourier_SDE_SGD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fourier_SDE_SGD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MKVSDEpoly-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MKVSDEpoly-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MKVSDEkuramoto.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MKVSDEkuramoto.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MKVSDEpoly.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MKVSDEpoly.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MKVSDEkuramoto-l2norm-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MKVSDEkuramoto-l2norm-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MKVSDEpoly-l2norm-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MKVSDEpoly-l2norm-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MKVSDEkuramoto-l2norm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MKVSDEkuramoto-l2norm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MKVSDEpoly-l2norm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MKVSDEpoly-l2norm.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +114,7 @@
       <workItem from="1635940008346" duration="1301000" />
       <workItem from="1639607023109" duration="248000" />
       <workItem from="1639607389547" duration="4812000" />
+      <workItem from="1644490272620" duration="352000" />
     </task>
     <servers />
   </component>
